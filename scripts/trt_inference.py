@@ -151,7 +151,6 @@ class TrtModel:
         img = tensor_resize(img, (480, 999), interpret_as_max_bound=True)
         img_t = torch.from_numpy(img.transpose([2, 0, 1]).astype('float32'))
         img_t = img_t.unsqueeze(0)
-        print(img_t.shape)
         # Inference step
         result = self.__call__(img_t.numpy(), self.batch_size) #Inference takes about 0.23 
         
@@ -183,17 +182,15 @@ class TrtModel:
             w /= 640
             y /= 480
             h /= 480
-
-            if(w < 15 and h < 15):
+            if(w < 15/640 and h < 15/640):
                 continue
-            if(w < 10 or h < 10): # we don't want TOO narrow objects; they are useless.
+            if(w < 10/640 or h < 10/480): # we don't want TOO narrow objects; they are useless.
                 continue
             #affseg_img = cv2.rectangle(affseg_img, (x, y), (x + w, y + h), (36,255,12), 2)
             # append to tuple to be assigned later
             xywh_tuple.append([x,y,w,h])
             detection_count += 1
-        rospy.loginfo(f"Inference and BBox calc done. Detected {detection_count} blobs")
-        #print(xywh_tuple)
+        rospy.loginfo(f"Inference and BBox calc done in {time.time() - start} sec. Detected {detection_count} blobs")
         
         # This drawing process takes another 0.005 sec, but it will be discarded. 
         # Need to check how long packing everything into a ROS message will take though, but I think I can get a 3~4 FPS performance out of this.
@@ -205,14 +202,13 @@ class TrtModel:
         msg.detection_array = []
         
         msg.segmentation_image = self.bridge.cv2_to_imgmsg(np.array(affseg_img), 'mono8')
-        cv2.imwrite('img.jpg', affseg_img)
+        cv2.imwrite('../bien_thesis/img.jpg', affseg_img)
         # Also need to attach segmentation data
         for i in range(0, len(xywh_tuple)):
             tempArr = DetectionArray()
             xywh = xywh_tuple[i]
             tempArr.detection_info = np.asarray((0, *xywh)).astype(np.float) # 0 is supposed to be a class integer, but it's not needed. just need to fill up the space
             msg.detection_array.append(tempArr)
-            print(xywh)
         if(self.publish):
             self.detection_publisher.publish(msg)
         
