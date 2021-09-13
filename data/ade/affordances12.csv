@@ -1,0 +1,256 @@
+object;count;obstruct;break;sit;grasp;pull;tip_push;illumination;read/watch;support;place_on;roll;walk
+__CLASS_WEIGHTS__;1;0.2;1;10;1;100;100;1;1;1;10;1;1
+_;;189;23;7;41;13;6;10;15;18;8;5;18
+_candle holder;610;1;0;0;1;0;0;0;0;0;0;0;0
+_ceiling recessed light;4227;0;0;0;0;0;0;1;0;0;0;0;0
+_ceiling spotlight;964;1;0;0;0;0;0;0;0;0;0;0;0
+door;1873;1;;0;0;0;;;0;;0;0;0
+_flowerpot;1035;1;1;0;1;0;0;0;0;0;0;0;0
+_flowers;1323;1;0;0;0;0;0;0;0;0;0;0;0
+_glass;975;1;1;0;1;0;0;0;0;0;0;0;0
+sink;1038;;;0;0;;;0;0;0;;0;0
+toilet, can, commode, crapper, pot, potty, stool, throne/lid;;0;0;1;0;0;0;0;0;0;1;0;0
+toilet, can, commode, crapper, pot, potty, stool, throne/bowl;;1;0;0;0;0;0;0;0;0;0;0;0
+armchair;805;1;0;;;0;0;0;0;0;;0;0
+armchair/arm;675;1;0;0;0;;0;0;0;0;0;0;0
+armchair/leg;613;1;0;0;1;0;0;0;0;0;0;0;0
+ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin;;1;0;0;0;0;0;0;0;0;0;0;0
+ashtray;;1;0;0;0;1;0;0;0;0;1;0;0
+awning, sunshade, sunblind;;0;0;0;0;0;0;0;0;0;0;0;0
+bag;;1;0;0;;0;0;0;0;0;;0;0
+basket;522;1;0;0;1;0;0;0;0;0;0;0;0
+basket, handbasket;;1;0;0;0;0;0;0;0;0;0;0;0
+bed;1253;;0;;0;0;0;0;0;0;;0;0
+bed/footboard;760;1;0;0;0;0;0;0;0;1;0;0;0
+bed/headboard;760;1;0;0;0;0;0;0;0;1;0;0;0
+bench;;1;0;;0;0;0;0;0;0;;0;0
+blind;487;1;0;0;0;0;0;;0;0;0;0;0
+book;768;1;0;0;1;0;0;0;1;0;0;0;0
+bottle;1420;1;1;0;1;0;0;0;0;0;0;0;0
+bowl;697;1;1;0;1;0;0;0;0;0;0;0;0
+box;1359;1;0;0;0;0;0;0;0;0;0;0;0
+building, edifice;;1;0;0;0;0;0;0;0;1;0;0;0
+button panel;p;1;0;0;0;0;1;0;0;0;0;0;0
+buttons;p;1;0;0;0;0;1;0;0;0;0;0;0
+cabinet;3819;1;0;0;0;;;0;0;;;0;0
+cabinet/door;3047;1;0;0;0;;;0;0;0;0;0;0
+cabinet/drawer;1150;1;0;0;0;;;0;0;0;0;0;0
+can, tin, tin can;;1;1;0;1;0;0;0;0;0;0;0;0
+car, auto, automobile, machine, motorcar;;1;0;0;0;0;0;0;0;0;0;0;0
+ceiling;5386;1;0;0;0;0;0;0;0;1;0;0;0
+chair;2205;1;0;;;0;0;0;0;0;;0;0
+chair;;1;0;0;0;0;0;0;0;1;0;0;0
+chair/back;;1;0;0;1;0;0;0;0;0;0;0;0
+chair/leg;1276;1;0;0;1;1;0;0;0;0;0;0;0
+chandelier, pendant, pendent;;1;1;0;0;0;0;;0;0;0;0;0
+chest of drawers/drawer;766;1;0;0;0;0;0;0;0;0;0;0;0
+chest of drawers, chest, bureau, dresser;;1;0;0;0;;0;0;0;0;0;0;0
+clock;533;1;;0;0;0;0;0;1;0;0;0;0
+coffee table, cocktail table;533;1;0;;0;0;0;0;0;;;0;0
+column;783;1;0;0;0;0;0;0;0;1;0;0;0
+column, pillar;;1;0;0;0;0;0;0;0;0;0;0;0
+computer, computing machine, computing device, data processor, electronic computer, information processing system/keyboard;;1;1;0;1;0;0;0;0;0;0;0;0
+cradle;;1;0;0;0;0;0;0;0;0;0;0;0
+curtain;3287;1;0;0;0;0;0;0;0;0;0;0;0
+curtain, drape, drapery, mantle, pall;;1;0;0;0;0;0;0;0;0;0;0;0
+cushion;2823;1;0;0;0;0;0;0;0;0;0;0;0
+desk;510;1;0;0;0;;;0;0;;0;0;0
+dial;p;1;0;0;0;0;1;0;0;0;0;0;0
+door frame;p;1;0;0;0;0;0;0;0;1;0;0;0
+drawer;p;1;0;0;0;0;0;0;0;0;0;0;0
+earth, ground;;0;0;0;0;0;0;0;0;0;0;;1
+fence, fencing;;1;;0;0;0;0;0;0;1;0;0;0
+flag;;1;0;0;0;0;0;0;0;0;0;0;0
+floor;6962;0;0;0;0;0;0;0;0;0;0;1;1
+floor, flooring;;0;0;0;0;0;0;0;0;0;0;1;1
+flower;;1;0;0;;0;0;0;0;0;0;0;0
+fluorescent, fluorescent fixture;;0;1;0;0;0;0;1;0;0;0;0;0
+glass, drinking glass;;1;1;0;1;;0;0;0;0;0;0;0
+grass;;0;0;0;0;0;0;0;0;0;0;;1
+guitar;;1;0;0;1;0;0;0;0;0;0;0;0
+handle;p;1;0;0;0;1;0;0;0;0;0;0;0
+house;;1;0;0;0;0;0;0;0;0;0;0;0
+jar;;1;0;0;0;0;0;0;0;0;0;0;0
+keyboard;p;1;0;0;0;0;1;0;0;0;0;0;0
+knob;p;1;0;0;0;1;0;0;0;0;0;0;0
+lamp;;1;1;0;0;0;;;0;0;0;0;0
+light, light source;;1;0;0;0;0;0;1;0;0;0;0;0
+mirror;1091;;;;;;;;;;;;
+monitor;;1;0;0;0;0;0;0;0;0;0;0;0
+monitor/screen;;1;0;0;0;0;0;0;1;0;0;0;0
+mountain, mount;;1;0;0;0;0;0;0;0;0;0;0;0
+outlet;1178;1;0;0;0;0;0;0;0;0;0;0;0
+painting, picture;5954;1;1;0;0;0;0;0;1;0;0;0;0
+painting, picture/frame;510;1;0;0;0;0;0;0;0;0;0;0;0
+paintings;5954;1;1;0;0;0;0;0;1;0;0;0;0
+palm, palm tree;;1;0;0;0;0;0;0;0;0;0;0;0
+pane;p;1;1;0;0;0;0;0;0;0;0;0;0
+person, individual, someone, somebody, mortal, soul;1363;1;0;0;0;0;0;0;0;0;0;0;0
+pillow;1050;1;0;1;1;0;0;0;0;0;0;0;0
+plant;2359;1;0;0;0;0;0;0;0;0;0;0;0
+plant, flora, plant life;;1;0;0;0;0;0;0;0;0;0;0;0
+plate;800;1;1;0;1;0;0;0;0;0;1;0;0
+plaything, toy;;1;0;0;1;0;0;0;0;0;0;0;0
+pole;;1;0;0;0;0;0;0;0;1;0;0;0
+pot;604;1;;0;1;0;0;0;0;0;0;0;0
+pot, flowerpot;;0;0;0;0;0;0;0;0;0;0;0;0
+rail;p;1;0;0;0;0;0;0;0;1;0;0;0
+railing, rail;;0;0;0;0;0;0;0;0;0;0;0;0
+rake;;1;0;0;1;0;0;0;0;0;0;0;0
+road, route;;0;0;0;0;0;0;0;0;0;0;1;1
+rock, stone;;;0;0;0;0;0;0;0;0;0;0;0
+rug, carpet, carpeting;;0;0;0;0;0;0;0;0;0;0;;1
+sconce;1109;1;;0;0;0;0;1;0;0;0;0;0
+screen;p;1;0;0;0;0;0;0;1;0;0;0;0
+seat;p;;0;1;;0;0;0;0;1;;0;0
+seat base;;0;0;1;0;0;0;0;0;1;;0;0
+seat cushion;p;0;0;1;0;0;0;0;0;0;0;0;0
+shelf;682;;0;0;0;0;0;0;0;0;1;0;0
+shoe;;1;0;0;1;0;0;0;0;0;0;0;0
+shrub, bush;;1;0;0;0;0;0;0;0;0;0;0;0
+sidewalk, pavement;;0;0;;0;0;0;0;0;0;;1;1
+signboard, sign;;1;0;0;0;0;0;0;1;0;0;0;0
+sink;;;0;0;;0;0;0;0;0;;0;0
+sink/faucet;854;1;0;0;0;0;1;0;0;0;0;0;0
+sky;;0;0;0;0;0;0;1;0;0;0;0;0
+skyscraper;;1;0;0;0;0;0;0;0;0;0;0;0
+sofa, couch, lounge;;1;0;;0;0;0;0;0;;;0;0
+sofa, couch, lounge/arm;602;1;0;0;0;0;0;0;0;1;0;0;0
+sofa, couch, lounge/back pillow;689;1;0;0;0;0;0;0;0;1;0;0;0
+sofa, couch, lounge/seat cushion;691;0;0;1;0;0;0;0;0;0;0;0;0
+spotlight, spot;;0;0;0;0;0;0;0;0;0;0;0;0
+stairs, steps;;0;0;0;0;0;0;0;0;0;0;0;1
+stool;;1;0;;0;;0;0;0;0;0;0;0
+streetlight, street lamp;;1;0;0;0;0;0;;0;0;0;0;0
+switch, electric switch, electrical switch;;1;0;0;0;0;1;0;0;0;0;0;0
+swivel chair;;1;0;;;0;0;0;0;0;0;0;0
+table;;1;0;;0;0;0;0;0;0;;0;0
+table/lamp;1972;1;0;0;1;0;0;0;0;0;0;0;0
+table/lamp/base;679;1;0;0;1;0;0;0;0;0;0;0;0
+table/lamp/column;884;1;0;0;1;0;0;0;0;0;0;0;0
+table/lamp/shade;973;1;0;0;0;0;0;1;0;0;0;0;0
+tap;;1;0;0;0;1;1;0;0;0;0;0;0
+top;p;0;0;0;0;0;0;0;0;0;1;0;0
+towel;756;1;0;0;1;0;0;0;0;0;0;0;0
+traffic light, traffic signal, stoplight;;1;0;0;0;0;0;0;0;0;0;0;0
+tree;;1;0;0;0;0;0;0;0;1;0;0;0
+urn;;1;0;0;1;0;0;0;0;0;0;0;0
+van;;0;0;0;0;0;0;0;0;0;0;0;0
+vase;1524;1;1;0;1;0;0;0;0;0;0;0;0
+wall;19827;1;0;0;0;0;0;0;0;1;0;0;0
+wall socket, wall plug, electric outlet, electrical outlet, outlet, electric receptacle;;1;0;0;0;0;0;0;0;0;0;0;0
+water;;0;0;0;0;0;0;0;0;0;0;0;0
+window/pane;634;1;1;0;0;0;0;;0;0;0;0;0
+window;;1;1;0;0;0;0;;0;0;0;0;0
+windowpane, window;;1;1;0;0;0;0;;0;0;0;0;0
+work surface;994;0;0;0;0;0;0;0;0;0;1;0;0
+ottoman, pouf, pouffe, puff, hassock;;1;0;;0;0;0;0;0;0;0;0;0
+mug;;1;0;0;1;;0;0;0;0;0;0;0
+mug/handle;;1;0;0;1;1;0;0;0;0;0;0;0
+hood, exhaust hood;;1;0;0;0;0;0;0;0;0;0;0;0
+fruit;;1;1;0;1;0;0;0;0;0;0;0;0
+food, solid food;;1;1;0;1;0;0;0;0;0;0;0;0
+bookcase;;1;0;0;;0;0;0;0;0;;0;0
+blind, screen;;1;;0;0;0;0;;0;0;0;0;0
+bucket, pail;;1;;0;;0;0;0;0;0;0;0;0
+candlestick, candle holder;;1;0;0;1;0;0;0;0;0;0;0;0
+fan;;1;;0;0;0;0;0;0;0;0;0;0
+hat, chapeau, lid;;1;0;0;1;;0;0;0;0;0;0;0
+loudspeaker, speaker, speaker unit, loudspeaker system, speaker system;;1;1;0;0;0;0;0;0;0;0;0;0
+napkin, table napkin, serviette;;1;0;0;1;0;0;0;0;0;0;0;0
+paper;;1;0;0;1;0;0;0;0;0;0;0;0
+patty, cake;;1;0;0;1;0;0;0;0;0;0;0;0
+pitcher, ewer;;1;0;0;;0;0;0;0;0;0;0;0
+pipe, pipage, piping;;1;0;0;0;0;0;0;0;0;0;0;0
+refrigerator, icebox;;1;0;0;0;;;0;0;1;0;0;0
+stairs, steps;;1;0;0;0;0;0;0;0;0;0;0;1
+step, stair;;1;0;0;0;0;0;0;0;0;0;0;1
+stairway, staircase;;1;0;0;0;0;0;0;0;0;0;0;1
+stove, kitchen stove, range, kitchen range, cooking stove;;1;0;0;0;0;0;0;0;0;;0;0
+swivel chair;;1;0;;0;;0;0;0;0;;0;0
+telephone, phone, telephone set;;1;0;0;1;0;0;0;0;0;0;0;0
+television receiver, television, television set, tv, tv set, idiot box, boob tube, telly, goggle box;;1;0;0;0;0;0;0;1;0;0;0;0
+tray;;1;0;0;;0;0;0;0;0;1;0;0
+wardrobe, closet, press;;1;0;0;;;0;0;0;0;0;0;0
+airplane, aeroplane, plane;;1;0;0;0;0;0;0;0;0;0;0;0
+runway;;0;0;0;0;0;0;0;0;0;0;1;1
+field;;0;0;0;0;0;0;0;0;0;0;0;1
+partition, divider;;1;0;0;0;0;0;0;0;0;0;0;0
+__NEW ONES FOLLOW;;0;0;0;0;0;0;0;0;0;0;0;0
+sea;;0;0;0;0;0;0;0;0;0;0;0;0
+bannister, banister, balustrade, balusters, handrail;;1;0;0;0;0;0;0;0;1;0;0;0
+base, pedestal, stand;;1;0;0;0;0;0;0;0;0;0;0;0
+path;;0;0;0;0;0;0;0;0;0;0;0;1
+ball;;0;;;0;0;0;0;0;0;0;0;0
+poster, posting, placard, notice, bill, card;;1;0;0;0;0;0;0;1;0;0;0;0
+trade name, brand name, brand, marque;;1;0;0;0;0;0;0;1;0;0;0;0
+minibike, motorbike;;1;0;0;0;0;0;0;0;0;0;0;0
+truck, motortruck;;1;0;0;0;0;0;0;0;0;0;0;0
+figurine, statuette;;1;0;0;0;0;0;0;0;0;0;0;0
+bicycle, bike, wheel, cycle;;1;0;0;0;0;0;0;0;0;0;0;0
+monitor, monitoring device;;1;0;0;0;0;;0;1;0;0;0;0
+magazine;;0;0;0;1;0;0;0;1;0;0;0;0
+air conditioner, air conditioning;;1;0;0;0;0;0;0;0;0;0;0;0
+computer, computing machine, computing device, data processor, electronic computer, information processing system;;1;0;0;0;0;0;0;0;0;0;0;0
+umbrella;;1;0;0;1;0;0;0;0;0;0;0;0
+sculpture;;1;0;0;0;0;0;0;0;0;0;0;0
+animal, animate being, beast, brute, creature, fauna;;1;0;0;0;0;0;0;0;0;0;0;0
+fireplace, hearth, open fireplace;;1;0;0;0;0;0;0;0;0;0;0;0
+bus, autobus, coach, charabanc, double-decker, jitney, motorbus, motorcoach, omnibus, passenger vehicle;;1;0;0;0;0;0;0;0;0;0;0;0
+double door;;1;0;0;0;;;0;0;0;0;0;0
+counter;;1;0;0;0;0;0;0;0;0;0;0;0
+apparel, wearing apparel, dress, clothes;;0;0;0;1;0;0;0;0;0;0;0;0
+toilet, can, commode, crapper, pot, potty, stool, throne;;1;0;;0;0;0;0;0;0;0;0;0
+bathtub, bathing tub, bath, tub;;;0;0;0;0;0;0;0;0;0;0;0
+screen, crt screen;;1;0;0;0;0;0;0;1;0;0;0;0
+text, textual matter;;1;0;0;0;0;0;0;1;0;0;0;0
+gravestone, headstone, tombstone;;1;0;0;0;0;0;0;0;0;0;0;0
+sand;;0;0;0;0;0;0;0;0;0;0;0;1
+pane, pane of glass, window glass;;1;0;0;0;0;0;;0;0;0;0;0
+manhole;;0;0;0;0;0;0;0;0;0;0;0;0
+river;;0;0;0;0;0;0;0;0;0;0;0;0
+countertop;;0;0;0;0;0;0;0;0;0;1;0;0
+hill;;;0;0;0;0;0;0;0;0;0;0;1
+microwave, microwave oven;;1;0;0;0;;;0;0;0;0;0;0
+doorframe, doorcase;;1;0;0;0;0;0;0;0;0;0;0;0
+gate;;1;0;0;0;0;0;0;0;0;0;0;0
+curb, curbing, kerb;;1;0;0;0;0;0;0;0;0;0;0;1
+bag, handbag, pocketbook, purse;;1;0;0;1;0;0;0;0;0;0;0;0
+snow;;0;0;0;0;0;0;0;0;0;0;0;1
+candle, taper, wax light;;1;0;0;1;0;0;1;0;0;0;0;0
+barrel, cask;;1;0;0;0;0;0;0;0;0;0;0;0
+bulletin board, notice board;;1;0;0;0;0;0;0;1;0;0;0;0
+cup;;1;1;0;1;;0;0;0;0;0;0;0
+wheel;;1;0;0;0;0;0;0;0;0;0;0;0
+oven;;1;0;0;0;0;0;0;0;0;0;0;0
+beam;;1;0;0;0;0;0;0;0;0;0;0;0
+shutter;;1;0;0;0;0;0;0;0;0;0;0;0
+chimney;;1;0;0;0;0;0;0;0;0;0;0;0
+canopy;;1;0;0;0;0;0;0;0;0;0;0;0
+post;;1;0;0;0;0;0;0;0;0;0;0;0
+skirt;;1;0;0;0;0;0;0;0;0;0;0;0
+gate;;1;0;0;0;0;0;0;0;0;0;0;0
+roof;;1;0;0;0;0;0;0;0;0;0;0;0
+chain;;1;0;0;0;0;0;0;0;0;0;0;0
+stretcher;;1;0;1;0;0;0;0;0;0;0;0;0
+ear;;1;0;0;0;0;0;0;0;0;0;0;0
+cap;;1;0;0;0;0;0;0;0;0;0;0;0
+balcony;;1;0;0;0;0;0;0;0;0;0;0;0
+statue;;1;0;0;0;0;0;0;0;0;0;0;0
+ladder;;1;0;0;0;0;0;0;0;0;0;0;0
+panel;;1;0;0;0;0;0;0;0;0;0;0;0
+branch;;1;0;0;0;0;0;0;0;0;0;0;0
+lock;;1;0;0;0;0;0;0;0;0;0;0;0
+motor;;1;0;0;0;0;0;0;0;0;0;0;0
+hook;;1;0;0;0;1;0;0;0;0;0;0;0
+porch;;1;0;0;0;0;0;0;0;0;0;0;1
+drain;;0;0;0;0;0;0;0;0;0;0;0;0
+_NEW____ONES;;0;0;0;0;0;0;0;0;0;0;0;0
+*/knob;;1;0;0;0;1;1;0;0;0;0;0;0
+soap dispenser;;1;0;0;1;0;0;0;0;0;0;0;0
+church;;1;0;0;0;0;0;0;0;0;0;0;0
+cabinet/drawer/handle;536;1;0;0;0;1;0;0;0;0;0;0;0
+*/door/knob;;1;0;0;0;1;1;0;0;0;0;0;0
+*/door/handle;;1;0;0;0;1;1;0;0;0;0;0;0
+*/drawer/knob;;1;0;0;0;1;1;0;0;0;0;0;0
+*/drawer/handle;;1;0;0;0;1;1;0;0;0;0;0;0

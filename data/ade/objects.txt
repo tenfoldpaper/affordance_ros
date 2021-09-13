@@ -1,0 +1,3148 @@
+no object;1;0.00000
+aarm panel;0;0.00000
+abacus;1;0.00000
+accordion, piano accordion, squeeze box;1;0.00000
+acropolis;11;0.00000
+ad, advertisement, advertizement, advertising, advertizing, advert;71;0.00000
+adding machine;0;0.00000
+advertisement board;0;0.00000
+aerial;0;1.00000
+air conditioner, air conditioning;582;0.00000
+air hockey table;0;0.00000
+air machine;0;0.00000
+aircraft carrier;0;0.00000
+airplane, aeroplane, plane;317;0.00000
+airport cart;1;0.00000
+alarm;0;0.00000
+alarm clock;0;0.00000
+alembic;4;0.00000
+alga;0;0.00000
+algae;0;0.00000
+altar, communion table, Lord's table;0;0.00000
+altarpiece;0;0.00000
+amphitheater;0;0.00000
+amphora;1;0.00000
+anchor;0;0.00000
+andiron;0;0.00000
+andirons;0;0.00000
+animal toy;0;0.00000
+animal, animate being, beast, brute, creature, fauna;533;0.00000
+animals;0;0.00000
+antenna;0;1.00000
+antenna, aerial, transmitting aerial;179;0.00000
+antler;8;0.00000
+antlers;0;1.00000
+anvil;1;0.00000
+aperture;0;1.00000
+apparatus;0;0.00000
+apparel, wearing apparel, dress, clothes;466;0.00000
+apple;2;0.00000
+apples;0;0.00000
+appliance;0;0.00000
+apron;4;0.99627
+aquarium;0;0.00000
+aqueduct;22;0.00000
+arbor;0;0.00000
+arcade;0;0.00000
+arcade machine;247;0.00000
+arcade machines;9;0.00000
+arcade, colonnade;80;0.00000
+arcades;0;1.00000
+arch;0;1.00000
+arch, archway;59;0.00000
+arches;0;0.00000
+arm;0;1.00000
+arm panel;0;1.00000
+arm support;0;1.00000
+armchair;2320;0.00000
+armor;0;0.00000
+armrest;0;1.00000
+art;0;0.00000
+art mannequin;1;0.00000
+articulated lamp;0;0.00000
+artificial golf green;35;0.00000
+ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin;950;0.00000
+ashtray;91;0.00000
+asymmetric bars;1;0.00000
+athletic field;0;0.00000
+athletics track;0;0.00000
+atm;0;0.00000
+autoclave;0;0.00000
+autopsy table;2;0.00000
+auxiliary trolley;6;0.00000
+aviary;1;0.00000
+avocados;1;0.00000
+award;5;0.00000
+awards;1;0.00000
+awning, sunshade, sunblind;1024;0.00000
+ax;3;0.00000
+baby buggy, baby carriage, carriage, perambulator, pram, stroller, go-cart, pushchair, pusher;58;0.00000
+baby chair;3;0.00000
+baby walker;2;0.00000
+baby weighs;1;0.00000
+back;0;1.00000
+back control;0;1.00000
+back cushion;0;1.00000
+back pillow;0;1.00000
+backdrop;8;0.00000
+backdrops;1;0.00000
+background;3;0.25000
+backpack, back pack, knapsack, packsack, rucksack, haversack;206;0.00000
+backpacks;2;0.00000
+backplate;0;1.00000
+badge;21;0.00000
+badlands;12;0.00000
+bag;1170;0.00085
+bag, handbag, pocketbook, purse;329;0.00000
+bag, traveling bag, travelling bag, grip, suitcase;276;0.00000
+baggage;0;0.00000
+baggage carts;7;0.00000
+bagpipes;1;0.00000
+balcony;28;0.98693
+balcony covered;1;0.00000
+ball;733;0.00000
+ball rack;5;0.00000
+ball stands;1;0.00000
+ball storage;0;1.00000
+ball, globe, orb;32;0.00000
+balloon;57;0.00000
+balloons;3;0.00000
+ballots;1;0.00000
+balls rack;1;0.00000
+balustrade;0;1.00000
+bamboo;60;0.00000
+bamboo canes;2;0.00000
+bananas;2;0.00000
+bandstand;19;0.00000
+banjo;3;0.00000
+banner, streamer;223;0.00000
+banners;1;0.00000
+bannister, banister, balustrade, balusters, handrail;785;0.00000
+baptismal font;10;0.00000
+baptistry;1;0.00000
+bar;229;0.00000
+bar lift;8;0.00000
+barbecue;14;0.00000
+barbed wire;7;0.00000
+barbell;3;0.00000
+barn;4;0.00000
+barrack buildings;2;0.00000
+barrel rack;19;0.00000
+barrel, cask;322;0.00000
+barrels;37;0.00000
+barricade;14;0.00000
+barrier;41;0.00000
+bars;0;1.00000
+base;23;0.98621
+base, pedestal, stand;767;0.00000
+baseball;4;0.00000
+baseball glove;3;0.00000
+baseboard;0;1.00000
+baseboard, mopboard, skirting board;55;0.00000
+baseboards;2;0.00000
+basin;4;0.00000
+basket;0;1.00000
+basket, basketball hoop, hoop;59;0.00000
+basket, handbasket;1141;0.00000
+basketball;2;0.00000
+basketball court;5;0.00000
+baskets;14;0.00000
+bass drum;1;0.00000
+bassinet;2;0.00000
+bat;12;0.00000
+bath sponge;1;0.00000
+bathrobe;14;0.00000
+bathtub, bathing tub, bath, tub;443;0.00000
+batting cage;4;0.00000
+battlement;0;1.00000
+battlements;0;1.00000
+beach wrap;1;0.00000
+beacon, lighthouse, beacon light, pharos;56;0.00000
+beam;351;0.36182
+beams;6;0.00000
+bear;2;0.00000
+bear cutout;2;0.00000
+bed;2418;0.04086
+bed column;0;1.00000
+bed side;0;1.00000
+bed trolley;2;0.00000
+bedpost;0;1.00000
+beds;2;0.00000
+bedspread;4;0.00000
+bedspring;0;1.00000
+beer machine;14;0.00000
+beer pump;3;0.00000
+bell;57;0.40625
+bell tower;0;1.00000
+belt;11;0.00000
+belt loader;2;0.00000
+belt rack;1;0.00000
+belts;4;0.00000
+bench;1352;0.00295
+berth;39;0.00000
+bib;1;0.00000
+bicycle path;0;1.00000
+bicycle rack;10;0.00000
+bicycle racks;6;0.00000
+bicycle, bike, wheel, cycle;621;0.00000
+bidet;34;0.00000
+bidon;6;0.00000
+big top;12;0.00000
+big wheel;4;0.00000
+bilding;0;0.00000
+bildings;1;0.00000
+billboard, hoarding;87;0.00000
+bin;1;0.00000
+binder, ring-binder;152;0.00000
+binoculars;4;0.00000
+bird;228;0.00000
+birdcage;6;0.00000
+birds;1;0.00000
+bitch;1;0.00000
+blackboard, chalkboard;65;0.00000
+blade;0;1.00000
+blade, vane;4;0.00000
+blades;0;1.00000
+blanket, cover;278;0.00000
+blankets;7;0.00000
+blast furnace;4;0.00000
+bleachers;9;0.00000
+blender;29;0.00000
+blind;0;1.00000
+blind, screen;700;0.00000
+blinds;31;0.11429
+block;82;0.00000
+blocks;2;0.00000
+blouse;6;0.00000
+blusher brush;6;0.00000
+boar;0;0.00000
+board game;1;0.00000
+board, plank;327;0.00000
+boards;17;0.00000
+boardwalk;2;0.00000
+boat;804;0.00000
+boat stop;1;0.00000
+body;1;0.97368
+bog water;1;0.00000
+boiler;5;0.00000
+boillers;1;0.00000
+bollard;7;0.00000
+bolt;1;0.00000
+bomb;3;0.00000
+bone;4;0.00000
+bones;5;0.00000
+bonfire;3;0.00000
+bonnet;1;0.00000
+book;5083;0.00000
+book rack;1;0.00000
+book stand;19;0.00000
+bookcase;529;0.00000
+bookend;10;0.00000
+bookends;1;0.00000
+booklet, brochure, folder, leaflet, pamphlet;262;0.00000
+bookstall;3;0.00000
+boomerang;1;0.00000
+boot;145;0.00000
+booth;22;0.00000
+booth, cubicle, stall, kiosk;164;0.00000
+booths;2;0.00000
+bottle;3643;0.00082
+bottle pack;5;0.00000
+bottle rack;24;0.20000
+bottom rail;0;1.00000
+bough;1;0.00000
+boulder;1;0.00000
+bounce seat;1;0.00000
+bouquet, corsage, posy, nosegay;102;0.00000
+bow;6;0.00000
+bow window;2;0.00000
+bowl;938;0.28178
+bowling alley;31;0.00000
+bowling alleys;3;0.00000
+bowling ball return;7;0.00000
+bowling pin;6;0.00000
+bowling pins;22;0.00000
+bowls;29;0.00000
+box;4358;0.00092
+box jury;1;0.00000
+box office, ticket office, ticket booth;10;0.00000
+box spring;0;1.00000
+box stands;1;0.00000
+box-file;1;0.00000
+boxing gloves;4;0.00000
+bracelet;13;0.00000
+bracelets;2;0.00000
+bracket;1;0.00000
+brake pedal;3;0.00000
+branch;18;0.68421
+branches;6;0.60000
+bread basket;7;0.00000
+bread box;10;0.00000
+bread lift;0;1.00000
+bread roll;15;0.00000
+bread rolls;28;0.00000
+bread slot;0;1.00000
+bread tray;1;0.00000
+bread, breadstuff, staff of life;137;0.00000
+breadbasket;1;0.00000
+breads;30;0.00000
+breaker box;1;0.00000
+breakwater;3;0.00000
+brewery;1;0.00000
+brick;19;0.00000
+bricks;4;0.00000
+bridge, span;318;0.00000
+bridges;1;0.00000
+briefcase;63;0.00000
+brochure;26;0.00000
+brochures rack;1;0.00000
+broom;28;0.00000
+brush;60;0.00000
+brushes;36;0.00000
+bucket;0;1.00000
+bucket, pail;503;0.00000
+buckets;6;0.00000
+bud;7;0.00000
+buds;1;0.00000
+buffet;6;0.00000
+buffet, counter, sideboard;140;0.00000
+buggy;1;0.00000
+building arena;1;0.00000
+building materials;5;0.00000
+building, edifice;18850;0.00000
+bulb;0;1.00000
+bulbs;11;0.00000
+bull;6;0.00000
+bull skull;1;0.00000
+bulldozer;20;0.00000
+bulletin board, notice board;308;0.00000
+bullring;10;0.00000
+bumper;1;0.99852
+bunch;3;0.00000
+buoy;5;0.00000
+buoys;2;0.00000
+burner;3;0.98993
+bus station;2;0.00000
+bus stop;59;0.00000
+bus, autobus, coach, charabanc, double-decker, jitney, motorbus, motorcoach, omnibus, passenger vehicle;477;0.00000
+buses;6;0.00000
+bushes;0;1.00000
+business card;1;0.00000
+business cards;5;0.00000
+butane gas cylinder;4;0.00000
+butcher shop;0;0.00000
+butchery;1;0.00000
+butter;1;0.00000
+butter dish;1;0.00000
+butterfly;2;0.00000
+buttocks;0;1.00000
+button;0;1.00000
+button box;2;0.00000
+button panel;0;1.00000
+buttons;0;1.00000
+buttons panel;0;1.00000
+buttress;11;0.00000
+buzzer;1;0.00000
+bycicle carriage;1;0.00000
+caar;0;0.00000
+cabbages;1;0.00000
+cabin;32;0.00000
+cabinet;7417;0.00616
+cabins;1;0.00000
+cable;23;0.00000
+cable car;3;0.00000
+cable railway;1;0.00000
+cables;8;0.00000
+cactus;56;0.00000
+cage;27;0.00000
+cages;10;0.00000
+cake mold;1;0.00000
+calculator;9;0.00000
+calendar;42;0.00000
+call buttons;2;0.00000
+camcorder;7;0.00000
+camel;8;0.00000
+camels;1;0.00000
+camera, photographic camera;63;0.00000
+camouflage;1;0.00000
+camping stove;1;0.00000
+can;0;1.00000
+can opener;2;0.00000
+can, tin, tin can;556;0.00000
+canal;9;0.00000
+candelabrum, candelabra;116;0.00000
+candies;37;0.00000
+candle;0;1.00000
+candle, taper, wax light;326;0.00000
+candles;12;0.00000
+candlestick, candle holder;775;0.00000
+candy bag;15;0.00000
+candy bags;2;0.00000
+candy track;1;0.00000
+candy, confect;49;0.00000
+cane;31;0.00000
+canes;6;0.00000
+canister, cannister, tin;142;0.00000
+canlendar;1;0.00000
+cannon;43;0.00000
+canoe;5;0.00000
+canopy;76;0.82284
+canvas;24;0.00000
+canvases;1;0.00000
+canyon;5;0.00000
+canyons;1;0.00000
+cap;127;0.22086
+cape;9;0.00000
+capital;0;1.00000
+caps;10;0.00000
+car scrapping;30;0.00000
+car wash;3;0.00000
+car wreck;4;0.00000
+car, auto, automobile, machine, motorcar;14977;0.00000
+caravan;31;0.00000
+caravans;1;0.00000
+card;29;0.00000
+card display;2;0.00000
+card table;10;0.00000
+cardboard;7;0.00000
+cards;0;0.00000
+cargo;16;0.00000
+carousel;25;0.00000
+carousel horse;3;0.00000
+carp;1;0.00000
+carpets;1;0.00000
+carport;26;0.00000
+carriage;6;0.00000
+cars scraping;1;0.00000
+cars scrapping;3;0.00000
+cart;131;0.00758
+carts;3;0.00000
+case, display case, showcase, vitrine;249;0.00000
+cases;3;0.00000
+cash register, register;58;0.00000
+casing;0;1.00000
+casing interior;1;0.83333
+casket;1;0.00000
+casserole;49;0.00000
+cassette;8;0.00000
+cassettes;5;0.00000
+castle;4;0.00000
+cat;18;0.00000
+catch;2;0.00000
+catwalk;12;0.00000
+cauldron;1;0.00000
+cave;9;0.00000
+cave entrance;6;0.00000
+cavern;1;0.00000
+cd;5;0.00000
+cd box;2;0.00000
+cd player;1;0.00000
+cd rack;1;0.00000
+cd shelf;1;0.00000
+cd stack;1;0.00000
+cd stand;1;0.00000
+cds;29;0.09375
+cds box;3;0.00000
+ceiing;0;0.00000
+ceiling;8516;0.00035
+ceiling controls;1;0.00000
+ceiling decor;2;0.00000
+ceiling piece;1;0.00000
+ceiling recessed light;0;1.00000
+cell;3;0.00000
+cell door;2;0.00000
+cello;1;0.00000
+cello cover;1;0.00000
+cells;17;0.00000
+cellular telephone, cellular phone, cellphone, cell, mobile phone;30;0.00000
+cement;1;0.00000
+centerpiece;10;0.00000
+central processing unit, CPU, C P U , central processor, processor, mainframe;0;0.00000
+central reservation;281;0.00000
+centrifuge;1;0.00000
+ceramic box;29;0.00000
+ceramic pot;23;0.00000
+ceramic ware;1;0.00000
+ceramics box;1;0.00000
+certificate;1;0.00000
+chain;44;0.78744
+chains;1;0.00000
+chainsaw;1;0.00000
+chair;13766;0.00015
+chair desk;11;0.00000
+chair lift;3;0.00000
+chairs desk;1;0.00000
+chairs lift;3;0.00000
+chaise lounge;6;0.00000
+chalk;9;0.00000
+champagne bucket;2;0.00000
+champagne stand;1;0.00000
+chandelier, pendant, pendent;811;0.00000
+change machine;1;0.00000
+check-in-desk;25;0.00000
+check-in-desks;4;0.00000
+checkers pieces;1;0.00000
+checkers table;1;0.00000
+checkpoint;1;0.00000
+cheese;2;0.00000
+cheese dish;2;0.00000
+chess;19;0.00000
+chest;130;0.00000
+chest of drawers, chest, bureau, dresser;663;0.00000
+chick;4;0.00000
+chicken;21;0.00000
+chicks;1;0.00000
+chimney;89;0.86536
+chimneys;2;0.00000
+chinese lantern;2;0.00000
+chip;14;0.00000
+chippings;4;0.00000
+chips;21;0.00000
+chocolate;22;0.00000
+chocolates;1;0.00000
+chopping board, cutting board;41;0.00000
+chopstick;1;0.00000
+chorizo;1;0.00000
+chorizos;1;0.00000
+christmas lights;1;0.00000
+christmas tree;3;0.00000
+church;2;0.00000
+chute;1;0.00000
+cigar box;12;0.00000
+cigarette;3;0.00000
+cigarette packet;2;0.00000
+cigarettes;1;0.00000
+ciment mixer;1;0.00000
+circular saw;1;0.00000
+circus;0;1.00000
+cistern;0;1.00000
+cistern, water tank;7;0.00000
+city;5;0.00000
+clamp;0;1.00000
+clamp lamp;3;0.00000
+clams;1;0.00000
+cliff, drop, drop-off;65;0.00000
+cliffs;0;0.00000
+climbing frame;2;0.00000
+clip;1;0.00000
+clipboard;10;0.00000
+cloak;1;0.00000
+clock;947;0.00421
+clock face;0;1.00000
+clock radio;3;0.00000
+closet;38;0.00000
+closet rod;19;0.00000
+closure;0;1.00000
+cloth material;1;0.00000
+clothes hanging;37;0.00000
+clothes horse;1;0.00000
+clothes stand;1;0.00000
+clothespin;15;0.00000
+clothing;11;0.00000
+clothing rack;2;0.00000
+cloud;0;1.00000
+clouds;0;1.00000
+club;18;0.00000
+clubs;1;0.00000
+clutch pedal;3;0.00000
+coar of arms;0;0.00000
+coaster;12;0.00000
+coasters;1;0.00000
+coastline;1;0.00000
+coat;33;0.00000
+coat of arms;7;0.00000
+coat rack;5;0.00000
+coat stand;1;0.00000
+coats;3;0.00000
+cobbles;1;0.00000
+cock;2;0.00000
+cockpit;3;0.92105
+cockpot;1;0.00000
+cocktail shaker;1;0.00000
+coconut;6;0.00000
+coconuts;1;0.00000
+coffee;1;0.00000
+coffee cup;71;0.00000
+coffee cup rack;1;0.00000
+coffee cups;1;0.00000
+coffee grinder;3;0.00000
+coffee maker;215;0.00000
+coffee pot;9;0.00000
+coffee table, cocktail table;935;0.00000
+coffin;10;0.00000
+colander;1;0.00000
+cold storage;48;0.00000
+cold storage door;1;0.00000
+cold store;2;0.00000
+colour board;3;0.00000
+columbarium;1;0.00000
+columbarium niche;7;0.00000
+column;0;1.00000
+column, pillar;2009;0.00000
+columns;0;1.00000
+comb;1;0.00000
+comforter;7;0.00000
+comic strip;2;0.00000
+compact discs;1;0.00000
+compartment;1;0.00000
+compas;1;0.00000
+computer case;0;1.00000
+computer console;1;0.00000
+computer, computing machine, computing device, data processor, electronic computer, information processing system;555;0.00000
+confessional booth;8;0.00000
+console;6;0.00000
+console table, console;112;0.00000
+construction equipment;3;0.00000
+contact lens case;1;0.00000
+container;354;0.00000
+containers;13;0.00000
+contrabass;6;0.00000
+control;0;1.00000
+control cabinet;2;0.00000
+control panel;10;0.09091
+control panel, instrument panel, control board, board, panel;3;0.00000
+control panels;1;0.00000
+control room;2;0.00000
+control table;9;0.00000
+control tower;21;0.04545
+controls;39;0.00000
+conveyer belt, conveyor belt, conveyer, conveyor, transporter;83;0.00000
+cooker;29;0.00000
+cookie;8;0.00000
+cookies;31;0.00000
+cool box;5;0.00000
+cooler;5;0.00000
+coop;4;0.00000
+copier;1;0.00000
+coral;9;0.00000
+cord;0;1.00000
+cords;1;0.00000
+cork;1;0.00000
+cork stopper;1;0.00000
+corkscrew;3;0.00000
+corn field;0;0.00000
+corner;0;0.00000
+corner pocket;0;1.00000
+cornice;2;0.60000
+counter;467;0.00000
+counters;8;0.00000
+countertop;381;0.00262
+counterweight;1;0.00000
+court;59;0.00000
+courts;1;0.00000
+cove;3;0.00000
+cover;8;0.11111
+cover curtain;12;0.00000
+covered bridge;10;0.00000
+covered wagon;4;0.00000
+cow, moo-cow;149;0.00000
+cowbell;1;0.00000
+cows;14;0.00000
+crackers;1;0.00000
+cradle;96;0.00000
+crane;144;0.00000
+crane scrapping;1;0.00000
+crane truck;1;0.00000
+cranes;2;0.00000
+crank;1;0.00000
+craps table;4;0.00000
+crate;21;0.00000
+crater;2;0.00000
+crates;4;0.00000
+cream;5;0.00000
+cream tube;6;0.00000
+creamer;9;0.00000
+creeper;8;0.00000
+crevasse;6;0.00000
+crib;1;0.00000
+crock;34;0.00000
+crock pot;2;0.00000
+crock rack;1;0.00000
+crockery;1;0.00000
+cross;107;0.00000
+cross bracing;0;1.00000
+crosses;2;0.00000
+crosswalk;0;1.00000
+cruet;6;0.00000
+cruet set;1;0.00000
+crumb;2;0.00000
+crutch;3;0.00000
+cube;4;0.00000
+cubicles;10;0.00000
+cue;0;1.00000
+cue place;2;0.00000
+cue rack;8;0.00000
+cue, cue stick, pool cue, pool stick;155;0.00000
+cues;5;0.00000
+cup;308;0.00000
+cup maker;1;0.00000
+cups;10;0.00000
+curb;0;1.00000
+curb cut;4;0.00000
+curb, curbing, kerb;331;0.00000
+curbstone;1;0.00000
+curtain;0;1.00000
+curtain cover;7;0.00000
+curtain support;0;1.00000
+curtain, drape, drapery, mantle, pall;4469;0.00000
+curtains;36;0.00000
+cushion;4906;0.00366
+cushions;7;0.00000
+cut slices machine;1;0.00000
+cut table;1;0.00000
+cutlery;31;0.00000
+cutter;1;0.00000
+cyclotron;1;0.00000
+cylinder;1;0.00000
+cymbal;1;0.00000
+dam;17;0.00000
+dartboard;10;0.09091
+dashboard;15;0.00000
+decanter;8;0.00000
+deck;38;0.02564
+deck boat;2;0.00000
+deck chair, beach chair;251;0.00000
+deck chairs;5;0.00000
+deck house;1;0.00000
+decoder;1;0.00000
+decor;30;0.00000
+decoration, ornament, ornamentation;89;0.00000
+decorations;3;0.00000
+decorative glass;6;0.00000
+decorative wood;4;0.00000
+deer;1;0.00000
+deer antler;1;0.00000
+deer head;1;0.00000
+deer skull;0;1.00000
+degree certificate;5;0.00000
+dental chair;15;0.00000
+dental instruments;1;0.00000
+dental sink;1;0.00000
+dental swivel chair;2;0.00000
+deodorant;1;0.00000
+desert;14;0.00000
+desk;1326;0.00000
+desk chair;2;0.00000
+desk mat;10;0.00000
+desk organizer;35;0.00000
+detergent dispenser;0;1.00000
+developing machine;2;0.00000
+dial;11;0.98660
+dice;4;0.00000
+diffuser;0;1.00000
+diffusor;0;1.00000
+digger;1;0.00000
+digital clock;10;0.09091
+diploma;31;0.00000
+dipper;1;0.00000
+dirt track;91;0.00000
+dish drainer;2;0.00000
+dish rack;33;0.02941
+dish soap;4;0.00000
+dish towel;3;0.00000
+dish, dish aerial, dish antenna, saucer;98;0.00000
+dishcloths;1;0.00000
+dishes;19;0.00000
+dishrag, dishcloth;128;0.00000
+dishwasher, dish washer, dishwashing machine;270;0.00000
+disk;1;0.00000
+disk spindle;1;0.00000
+disks;1;0.00000
+dispenser;4;0.00000
+display;0;1.00000
+display board;35;0.00000
+display window, shop window, shopwindow, show window;41;0.00000
+display, video display;1;0.00000
+disposal plant;1;0.00000
+distaff;1;0.00000
+ditch;3;0.00000
+divider;0;1.00000
+diving board;9;0.00000
+docks;1;0.00000
+document, written document, papers;241;0.00000
+dog bed;1;0.00000
+dog dish;3;0.00000
+dog, domestic dog, Canis familiaris;0;0.00000
+doily;5;0.00000
+doll;9;0.00000
+dollhouse;3;0.00000
+dolmen;2;0.00000
+dolmens;1;0.00000
+dolphin;16;0.00000
+dome;29;0.83889
+donkey;2;0.00000
+door;4672;0.71729
+door bars;6;0.00000
+door frame;0;1.00000
+doorbell;5;0.44444
+doorframe, doorcase;336;0.00000
+doors;0;1.00000
+doorway arch;1;0.00000
+dormer;0;1.00000
+dormer, dormer window;23;0.00000
+double door;471;0.42978
+drain;15;0.51613
+drain pipe;4;0.20000
+drain plug;2;0.00000
+drain vent;1;0.00000
+drapes;1;0.00000
+drawer;112;0.98077
+drawers;0;0.00000
+drawing;243;0.01220
+drawing board;2;0.00000
+drawing table;4;0.00000
+drawing tables;2;0.00000
+drawings;3;0.00000
+dress, frock;0;0.00000
+dresses;0;0.00000
+dressing screen;3;0.00000
+dressing table;6;0.00000
+dried herbs;6;0.00000
+drift ice;7;0.00000
+drill;5;0.00000
+drill rig;1;0.00000
+drilling equipment;1;0.00000
+drinking fountain;4;0.00000
+driveway;5;0.00000
+dropper;2;0.00000
+dropper bottle;0;0.00000
+drum;6;0.00000
+drums;8;0.00000
+dry dock;1;0.00000
+dryer;2;0.00000
+duck;37;0.00000
+duck shelter;1;0.00000
+ducks;1;0.00000
+dumbbell;4;0.00000
+dumbbells;4;0.00000
+dummy;113;0.00000
+dune;12;0.00000
+duster;1;0.00000
+dustpan;1;0.00000
+dvd;26;0.00000
+dvd box;5;0.00000
+dvd boxes;1;0.00000
+dvd player;5;0.00000
+dvd players;1;0.00000
+dvds;10;0.00000
+dvds box;3;0.00000
+dvds rack;1;0.00000
+dye;8;0.00000
+ear;34;0.84956
+earmuffs;0;1.00000
+earphones;3;0.00000
+earring;2;0.00000
+earrings;19;0.00000
+ears;1;0.00000
+earth;5;0.00000
+earth, ground;2592;0.00000
+easel;128;0.00000
+eaves;11;0.47619
+egg;7;0.00000
+eggs;2;0.00000
+eiderdown, duvet, continental quilt;64;0.00000
+electrical device;1;0.00000
+electrical substation;1;0.00000
+electricity box;3;0.00000
+electricity meter;2;0.00000
+electronic organ;1;0.00000
+elephant;19;0.00000
+elevator;0;1.00000
+elevator door;38;0.00000
+elevator doors;8;0.00000
+elevator, lift;57;0.00000
+elliptical machine;1;0.00000
+embankment;174;0.00000
+ember;1;0.00000
+embrasure;16;0.11111
+engine;7;0.00000
+entrance;0;1.00000
+entrance parking;1;0.66667
+entrance, entranceway, entryway, entry, entree;6;0.00000
+entry phone;15;0.00000
+envelope;7;0.00000
+envelopes;5;0.00000
+eplant;0;0.00000
+equestrian obstacle;2;0.00000
+equipment;67;0.00000
+escalator, moving staircase, moving stairway;86;0.00000
+escarpment;2;0.00000
+estuary;1;0.00000
+excavator;16;0.00000
+exercise bench;2;0.00000
+exercise bike;10;0.00000
+exercise bikes;2;0.00000
+exercise machines;1;0.00000
+exhaust pipe;0;1.00000
+exhibitor;84;0.00000
+expedition;1;0.00000
+extension cord;1;0.00000
+external driver;1;0.00000
+external drivers;3;0.00000
+extractor fan;17;0.00000
+extractor pipe;2;0.00000
+eye;0;1.00000
+eyebrow;0;1.00000
+eyeglasses;20;0.00000
+fabric;21;0.25000
+fabric softener;1;0.00000
+fabric, cloth, material, textile;72;0.00000
+face;0;1.00000
+factory;9;0.00000
+fairground;1;0.00000
+fairground ride;15;0.00000
+fan;492;0.00000
+faucet;0;1.00000
+faucet drain lever;0;1.00000
+faucet, spigot;245;0.00000
+fax;1;0.00000
+fax machine;7;0.00000
+feather;2;0.00000
+feeder;8;0.00000
+feeding bottle;0;0.00000
+feeding trough;4;0.00000
+fence;0;1.00000
+fence post;0;0.00000
+fence rubble;1;0.00000
+fence, fencing;2278;0.00000
+fences;10;0.00000
+fender;0;1.00000
+fenders;0;1.00000
+fern;5;0.00000
+ferris wheel;8;0.00000
+field;776;0.00000
+field desert;0;0.00000
+field flowers;0;0.00000
+field grass;0;0.00000
+figure;27;0.00000
+figurine, statuette;623;0.00000
+file;7;0.00000
+file box;20;0.00000
+file boxes;1;0.00000
+file cabinet;30;0.00000
+file cabinets;7;0.00000
+file organizer;1;0.00000
+file, file cabinet, filing cabinet;79;0.00000
+files;17;0.00000
+filing cabinets;1;0.00000
+filter;0;1.00000
+finger;38;0.02564
+finial;0;1.00000
+fire;9;0.00000
+fire alarm;14;0.00000
+fire alarm box;1;0.00000
+fire bell;0;1.00000
+fire blanket;1;0.00000
+fire booth;1;0.00000
+fire engine;9;0.00000
+fire escape;0;1.00000
+fire extinguisher, extinguisher, asphyxiator;67;0.00000
+fire hose;1;0.00000
+fire utensils;1;0.00000
+fireplace utensils;8;0.00000
+fireplace, hearth, open fireplace;508;0.00000
+fireplug, fire hydrant, plug;165;0.00000
+firewood;11;0.00000
+fireworks;3;0.00000
+first floor;10;0.00000
+fish;236;0.00000
+fish farm water;4;0.00000
+fish structure;1;0.00000
+fish tank;5;0.00000
+fishing pole;1;0.00000
+fitting room;2;0.00000
+flag;909;0.00000
+flag pole;11;0.00000
+flags;7;0.00000
+flagstones;1;0.00000
+flame;5;0.00000
+flashlight;1;0.00000
+flask;12;0.00000
+flavorings;4;0.00000
+flight deck;3;0.00000
+flip flop;15;0.00000
+flip flops;2;0.00000
+float;24;0.00000
+floatation device;0;1.00000
+floating bridge;1;0.00000
+floating dock;0;0.00000
+flock of sheep;3;0.00000
+floodlight;7;0.00000
+floodlights;0;0.00000
+floor;1;0.80000
+floor light;2;0.00000
+floor recessed light;6;0.00000
+floor spotlight;14;0.00000
+floor, flooring;11172;0.00000
+floting dock;0;0.00000
+flower;2404;0.01029
+flowerpots;1;0.00000
+flowers;0;1.00000
+fluorescent;0;1.00000
+fluorescent, fluorescent fixture;1101;0.00000
+flusher;1;0.98333
+flute;1;0.00000
+flyer;10;0.00000
+flyers;1;0.00000
+flyscreen;2;0.00000
+foam;1;0.00000
+fog;3;0.00000
+fog bank;12;0.00000
+folded box;1;0.00000
+folders;40;0.00000
+folding chair;6;0.00000
+folding chairs;2;0.00000
+folding door;23;0.08000
+folding doors;0;1.00000
+folding screen;29;0.00000
+folding table;1;0.00000
+font;7;0.00000
+food cart;1;0.00000
+food processor;32;0.00000
+food, solid food;799;0.00000
+foodstuffs;19;0.00000
+foot;0;1.00000
+foot rail;0;1.00000
+foot rest;2;0.84615
+football;2;0.00000
+football boots;0;0.00000
+football stadium;2;0.00000
+football table;1;0.00000
+football trophy;1;0.00000
+footboard;0;1.00000
+footbridge, overcrossing, pedestrian bridge;84;0.00000
+footpath;11;0.00000
+footrest;1;0.94118
+forecourt;55;0.00000
+forest;14;0.00000
+forge;5;0.00000
+fork;110;0.00000
+forklift;20;0.00000
+forks;3;0.00000
+fort;6;0.00000
+fountain;107;0.00000
+frame;24;0.97380
+frames;1;0.00000
+freezer;3;0.00000
+freezing ground;0;0.00000
+freight goods;8;0.00000
+freight train;2;0.00000
+fringe;0;1.00000
+front;0;1.00000
+front, front end, forepart;4;0.00000
+fruit;794;0.01733
+fruit bowl;2;0.00000
+fruit machine;4;0.00000
+fruit stand;5;0.00000
+fryer;3;0.00000
+fryer basket;1;0.00000
+frying pan;40;0.00000
+frying pans;2;0.00000
+fuel can;1;0.00000
+fuel pump;3;0.00000
+fuel tank;1;0.00000
+funfair;7;0.00000
+funicular;3;0.00000
+funnel;5;0.00000
+fur;1;0.00000
+furnace;2;0.00000
+furnace room;2;0.00000
+furrow;6;0.00000
+fuselage;0;1.00000
+gable;0;1.00000
+game;6;0.00000
+game table;4;0.00000
+games;4;0.00000
+games room;1;0.00000
+games table;4;0.00000
+gaming table;1;0.00000
+gangway;8;0.00000
+gap;1;0.00000
+garage;4;0.00000
+garage door;0;1.00000
+garage doors;0;1.00000
+garbage;9;0.00000
+garden;0;1.00000
+garland;11;0.00000
+garlic;3;0.00000
+garlic cloves;1;0.00000
+garlics;1;0.00000
+garment bag;1;0.00000
+gas bottle;1;0.00000
+gas cap;2;0.97368
+gas cylinder;5;0.00000
+gas heater;1;0.00000
+gas meter;2;0.00000
+gas pedal;3;0.00000
+gas pump;0;0.00000
+gas station;13;0.00000
+gas well;1;0.00000
+gasworks;3;0.00000
+gate;336;0.12727
+gatehouse;2;0.00000
+gates;15;0.00000
+gateway;4;0.00000
+gauge;1;0.00000
+gaze;0;0.00000
+gazebo;0;0.00000
+gear;4;0.00000
+gear shift;2;0.00000
+gear wheel;2;0.00000
+gears;1;0.00000
+gearshift;1;0.00000
+generator;1;0.00000
+girder;14;0.00000
+glacier;5;0.00000
+glass box;2;0.00000
+glass separation;4;0.00000
+glass, drinking glass;1709;0.00000
+glasses case;1;0.00000
+glove;3;0.00000
+glove compartment;2;0.00000
+gloves;4;0.00000
+goal;20;0.00000
+goat;2;0.00000
+goblet;4;0.00000
+goggles;1;0.00000
+goldfish bowl;2;0.00000
+golf bag;7;0.00000
+golf ball;5;0.00000
+golf cart;8;0.00000
+golf club;16;0.00000
+golf green;2;0.00000
+goods;19;0.00000
+goose;8;0.00000
+gooses;1;0.00000
+gourd;3;0.00000
+gramophone;1;0.00000
+grand;0;0.00000
+grand piano, grand;59;0.00000
+grandfather clock;3;0.00000
+grandstand, covered stand;207;0.00000
+grandstands;0;0.00000
+grapevine;3;0.00000
+graphic equalizer;7;0.00000
+grass;4253;0.00000
+grassland;7;0.00000
+grate;1;0.00000
+grater;1;0.00000
+grating;9;0.00000
+gravel;17;0.00000
+gravestone, headstone, tombstone;435;0.00000
+gravestones;1;0.00000
+gravy boat;4;0.00000
+green light;0;1.00000
+greenhouse;17;0.00000
+grid;2;0.00000
+griddle;1;0.50000
+grill;9;0.10000
+grill, grille, grillwork;252;0.00000
+grille;0;1.00000
+grille door;37;0.07500
+grills;1;0.00000
+grinder;4;0.00000
+gripper;6;0.00000
+ground;0;1.00000
+ground desert;11;0.00000
+ground shrubs;3;0.00000
+guard rail;1;0.00000
+guardhouse;3;0.00000
+guillotine;1;0.00000
+guitar;94;0.00000
+guitar case;1;0.00000
+guitar cover;2;0.00000
+gull;3;0.00000
+gun;12;0.00000
+gutter;12;0.40000
+gym machine;3;0.00000
+gym shoe, sneaker, tennis shoe;227;0.00000
+h-stretcher;0;1.00000
+hair;1;0.99398
+hair dryer;30;0.00000
+hair spray;13;0.00000
+hairbrush;11;0.00000
+hairdresser chair;14;0.00000
+hairdressers chair;1;0.00000
+hairpieces;2;0.00000
+half globe;1;0.00000
+half moon;0;1.00000
+hall;1;0.00000
+ham;10;0.00000
+hammer;6;0.00000
+hammock;5;0.00000
+hams;3;0.00000
+hand;0;1.00000
+hand bellows;1;0.00000
+hand dryer;1;0.00000
+hand trolley;1;0.00000
+handbag;4;0.00000
+handcart, pushcart, cart, go-cart;0;0.00000
+handle;0;1.00000
+handle, grip, handgrip, hold;69;0.00000
+handlebar;0;1.00000
+handrail;0;1.00000
+hands;1;0.00000
+hangar;1;0.00000
+hanger;141;0.00000
+hanger hook;1;0.00000
+hangers;37;0.00000
+hanging clothes;36;0.00000
+hanging instrument;1;0.00000
+hanging utensils;1;0.00000
+harbor;1;0.00000
+hard drive;6;0.00000
+hardware;1;0.00000
+harness;4;0.00000
+harp;26;0.00000
+hat, chapeau, lid;361;0.00000
+hatch;1;0.00000
+hatchery;31;0.00000
+hats;20;0.00000
+haversack;3;0.00000
+hay;116;0.00000
+hay bale;2;0.83333
+hay rolls;0;0.00000
+hay stacks;1;0.00000
+head;0;1.00000
+head deer;1;0.00000
+head jamb;0;1.00000
+head rail;0;1.00000
+head sport;1;0.00000
+head, caput;2;0.00000
+headboard;6;0.99501
+headlight;0;1.00000
+headlight, headlamp;1;0.00000
+headphones;28;0.00000
+headrest;0;1.00000
+headstone cross;10;0.00000
+headstones;14;0.00000
+hear;0;0.00000
+heart;4;0.00000
+hearth;2;0.00000
+heated swimming pool;0;0.00000
+heater, warmer;160;0.00000
+heating;1;0.00000
+hedge partial;1;0.00000
+hedge, hedgerow;298;0.00000
+heel;0;1.00000
+heeled shoe;0;0.00000
+helicopter;25;0.03846
+heliport;1;0.00000
+helmet;42;0.00000
+hen, biddy;63;0.00000
+henhouse;15;0.00000
+hens;2;0.00000
+herb;1;0.00000
+high-heeled shoe;0;0.00000
+high-heeled shoes;0;0.00000
+highlight;0;1.00000
+highway bridge;1;0.00000
+hill;374;0.00000
+hill grass;0;0.00000
+hill leaves;0;0.00000
+hill pass;0;0.00000
+hill urban;0;0.00000
+hills;0;0.00000
+hillside;9;0.00000
+hinge;0;1.00000
+hinge, flexible joint;8;0.00000
+hip tiles;0;1.00000
+hippopotamus head;1;0.00000
+hoarding;1;0.00000
+hobby-elephant;1;0.00000
+hobby-horse;12;0.14286
+hockey table;1;0.00000
+hoist;1;0.00000
+hole;14;0.00000
+hole puncher;4;0.00000
+hollow;3;0.00000
+hood;1;0.93750
+hood, exhaust hood;295;0.00000
+hoof;0;1.00000
+hook;22;0.40541
+hoop;0;1.00000
+horizontal bar;3;0.00000
+horse carousel;2;0.00000
+horse, Equus caballus;0;0.00000
+hose;27;0.00000
+hosepipe;1;0.00000
+hot air balloon;2;0.00000
+hot mitt;2;0.00000
+hot peppers;1;0.00000
+hot tub;64;0.00000
+hotel safe;1;0.00000
+hotplate;31;0.00000
+hourglass;1;0.00000
+house;1227;0.00000
+house number;1;0.85714
+houseboat;1;0.00000
+housing;0;1.00000
+housing lamp;0;1.00000
+housing project;3;0.00000
+hovel, hut, hutch, shack, shanty;123;0.00000
+howdah;8;0.00000
+hull;1;0.66667
+hutch;1;0.50000
+huts;5;0.00000
+ice bar;0;0.00000
+ice bucket;15;0.00000
+ice cone;6;0.00000
+ice cream;1;0.00000
+ice cream machine;2;0.00000
+ice creme stand;1;0.00000
+ice decoration;1;0.00000
+ice field;2;0.00000
+ice floe, floe;33;0.00000
+ice ground;2;0.00000
+ice hockey rink;5;0.00000
+ice lands;0;0.00000
+ice maker;0;1.00000
+ice mountain;4;0.00000
+ice rink;25;0.00000
+ice shelf;5;0.00000
+ice wall;2;0.00000
+ice, water ice;56;0.00000
+iceberg;15;0.00000
+icicle;4;0.00000
+icicles;2;0.00000
+id card;1;0.00000
+idol;8;0.00000
+igloo;7;0.00000
+in box;3;0.00000
+incense;7;0.00000
+incinerator;1;0.00000
+incubator;1;0.00000
+index card;1;0.00000
+index cards;11;0.00000
+indoor track;1;0.00000
+industrial machine;2;0.00000
+industrial plant;1;0.00000
+industrial robot;3;0.00000
+industry;1;0.00000
+inflatable bounce game;14;0.00000
+inflatable doll;1;0.00000
+inflatable glove;15;0.00000
+inflatable park;1;0.00000
+inflatable train;1;0.00000
+ingot, metal bar, block of metal;42;0.00000
+inner square;0;0.00000
+inside arm;0;1.00000
+instrument;7;0.56250
+instrument control;3;0.00000
+instrument panel;25;0.00000
+instrument table;0;0.00000
+instruments table;0;0.00000
+intercom;2;0.00000
+interior casing;0;1.00000
+ipod;2;0.00000
+iron;11;0.00000
+iron bar;1;0.00000
+iron cross;1;0.00000
+iron tubes;18;0.00000
+ironing board;7;0.00000
+island;40;0.00000
+iv bag;1;0.00000
+jack;5;0.00000
+jacket;236;0.00000
+jam;20;0.00000
+jamb;0;1.00000
+jar;1013;0.00000
+jars;0;0.00000
+jersey, T-shirt, tee shirt;0;0.00000
+jetty;6;0.00000
+jewelry display;5;0.00000
+joist;12;0.00000
+joists;1;0.00000
+joystick;2;0.33333
+judge table;1;0.00000
+jug;5;0.00000
+juice machine;2;0.00000
+juke box;3;0.00000
+junk;6;0.00000
+junk pile;1;0.00000
+kasbah;1;0.00000
+kayak;4;0.00000
+kennel;11;0.00000
+kennels;5;0.00000
+kettle, boiler;133;0.00000
+key;17;0.22727
+key pad;3;0.00000
+keyboard;91;0.81800
+keys;0;1.00000
+killer whale;3;0.00000
+kit;1;0.00000
+kitchen island;154;0.00000
+kitchen towel;1;0.00000
+kitchen utensils;2;0.00000
+kite;2;0.00000
+knife;216;0.00000
+knife display;0;0.00000
+knob;3;0.99940
+knobs;1;0.00000
+knocker;0;1.00000
+lab bench;11;0.00000
+label;0;1.00000
+label tag;10;0.00000
+label, recording label;90;0.00000
+laboratory equipment;1;0.00000
+laboratory machine;1;0.00000
+laboratory machines;1;0.00000
+labyrinth;10;0.00000
+ladder;149;0.13372
+ladle;8;0.00000
+lake;61;0.00000
+laminating machine;1;0.00000
+lamp;6036;0.00083
+lamp cord;1;0.00000
+lamp housing;0;1.00000
+lamps;1;0.00000
+lampshade;11;0.00000
+lance;2;0.00000
+land, ground, soil;275;0.00000
+landfill;10;0.00000
+landing gear;0;1.00000
+lantern;14;0.00000
+lanterns;1;0.00000
+laptop bag;2;0.00000
+laptop, laptop computer;180;0.00000
+large fork;1;0.00000
+large rabbit;1;0.00000
+latch;0;1.00000
+lathe;1;0.00000
+lattice;3;0.50000
+laundry;3;0.00000
+laundry basket;1;0.00000
+lava;16;0.00000
+lawn;0;0.00000
+lawn mower;2;0.00000
+leaf;0;1.00000
+leaf, leafage, foliage;58;0.00000
+leash;3;0.00000
+leather;9;0.00000
+leathers;1;0.00000
+leave;0;1.00000
+leaves;32;0.05882
+lectern;31;0.03125
+ledge;3;0.00000
+ledges;2;0.00000
+left arm;0;1.00000
+left foot;0;1.00000
+left hand;0;1.00000
+left leg;0;1.00000
+left shoulder;0;1.00000
+leg;2;0.99973
+legs;0;1.00000
+lemon;8;0.00000
+letter mail;1;0.00000
+level;2;0.00000
+lever;1;0.80000
+license plate;0;1.00000
+license plate, numberplate;0;0.00000
+lid;7;0.98108
+life preserver;2;0.00000
+light;0;1.00000
+light bulb;0;1.00000
+light bulb, lightbulb, bulb, incandescent lamp, electric light, electric-light bulb;249;0.00000
+light display;1;0.00000
+light pole;2;0.00000
+light source;0;0.00000
+light switches;4;0.00000
+light tower;1;0.00000
+light, light source;10353;0.00000
+lighter;4;0.00000
+lighting;2;0.00000
+lights;0;1.00000
+lily pads;1;0.00000
+linens;2;0.00000
+lithograph;1;0.00000
+litter basket;6;0.00000
+livestock;6;0.00000
+loaves;1;0.00000
+lock;13;0.90647
+locker;24;0.00000
+lockers;31;0.00000
+lockgate;7;0.00000
+locomotive;0;1.00000
+lodge;2;0.00000
+loft;2;0.00000
+log;13;0.07143
+log holder;1;0.00000
+logo;8;0.74194
+logs;6;0.00000
+loom;2;0.00000
+loudspeaker;12;0.00000
+loudspeaker, speaker, speaker unit, loudspeaker system, speaker system;330;0.00000
+lower deck;3;0.00000
+lower sash;0;1.00000
+luggage;16;0.00000
+luggage rack;3;0.00000
+lumber, timber;74;0.00000
+mace;1;0.00000
+machine;131;0.00000
+machine gun;18;0.00000
+machinery;26;0.00000
+machines;4;0.00000
+magazine;597;0.00000
+magazine rack;25;0.00000
+magnet;4;0.00000
+mail boxes;0;0.00000
+mailboxes;0;0.00000
+make;1;0.00000
+makeup;2;0.00000
+mallet;1;0.00000
+manchette;0;1.00000
+manhole;386;0.00000
+mannequin;4;0.00000
+manometer;4;0.00000
+mantle;5;0.00000
+mantle piece;1;0.00000
+map;47;0.00000
+maps;1;0.00000
+margarine;13;0.00000
+marker;5;0.00000
+marquee;0;0.00000
+marsh water;1;0.00000
+mask;26;0.00000
+massage bed;5;0.00000
+massage table;1;0.00000
+mast;89;0.04301
+mat;25;0.00000
+material;5;0.00000
+material rolls;13;0.00000
+materials;7;0.00000
+mattress;40;0.04762
+mausoleum;6;0.00000
+maze;1;0.00000
+measuring spoons;1;0.00000
+meat;38;0.00000
+meat bag;1;0.00000
+meat bags;5;0.00000
+meat hooks;1;0.00000
+meat piece;25;0.00000
+meat pieces;1;0.00000
+mechanical shovel;5;0.00000
+mechanism;2;0.00000
+median;0;0.00000
+medical machine;2;0.00000
+medicines;18;0.00000
+megaphone;1;0.00000
+menu;25;0.00000
+menu card;3;0.00000
+menu display;1;0.00000
+menus;1;0.00000
+merchandise, ware, product;203;0.00000
+merry-go-round;3;0.00000
+mesh guard rail;5;0.00000
+message board;1;0.00000
+metal decoration;1;0.00000
+metal piping;1;0.00000
+metal profiles;1;0.00000
+metal shutter;0;1.00000
+metal shutters;7;0.87273
+metal structure;2;0.00000
+meter;49;0.00000
+meter box;1;0.00000
+meters;2;0.00000
+mezzanine, first balcony;47;0.00000
+microbrewery;4;0.00000
+microphone;0;1.00000
+microphone, mike;112;0.00000
+microscope;8;0.00000
+microwave, microwave oven;374;0.00000
+milestone;2;0.00000
+milk jug;1;0.00000
+mill;28;0.00000
+millrace;1;0.00000
+minar;1;0.00000
+minaret;1;0.00000
+minced meat;2;0.00000
+mine;3;0.00000
+mineral;60;0.00000
+miniature chair;10;0.00000
+miniature sofa;1;0.00000
+minibike, motorbike;674;0.00000
+mirror;1598;0.41379
+mirror support;0;1.00000
+mirrors;1;0.00000
+missile;2;0.00000
+mitra;1;0.00000
+mitten;13;0.00000
+mixer;5;0.00000
+mixing board;1;0.00000
+mobile;25;0.00000
+mobile conveyor;1;0.00000
+mobile home;2;0.00000
+mobile phone;0;0.00000
+model;6;0.79310
+model dinosaur;1;0.00000
+models;0;1.00000
+mold;3;0.00000
+molding;13;0.00000
+money;4;0.00000
+monitor;0;1.00000
+monitor, monitoring device;601;0.00000
+monitors;13;0.18750
+monkey;2;0.00000
+monolith;4;0.00000
+monument;27;0.00000
+moon;5;0.00000
+moon decoration;1;0.00000
+moon dial;0;1.00000
+moose;1;0.00000
+mop;0;0.00000
+mop handle;1;0.00000
+mortar;3;0.00000
+mosaic;2;0.00000
+mosque;12;0.00000
+moss;9;0.00000
+motion detector;1;0.00000
+motion sensor;1;0.00000
+motor;11;0.82812
+motorbike cart;1;0.00000
+motorboat;4;0.00000
+motorboats;1;0.00000
+moulding;4;0.00000
+mound;3;0.00000
+mountain ledge;1;0.00000
+mountain pass;10;0.00000
+mountain salt;1;0.00000
+mountain terraces;1;0.00000
+mountain, mount;3012;0.00000
+mouse;0;1.00000
+mouse stand;1;0.00000
+mouse, computer mouse;43;0.00000
+mousepad, mouse mat;56;0.00000
+mouth;0;1.00000
+movie poster;3;0.00000
+moving walkway;2;0.00000
+mudflat;0;0.00000
+mug;395;0.00000
+mug set;0;0.00000
+mugs;0;0.00000
+mulch;0;0.00000
+multiple plug;1;0.00000
+multiple socket;1;0.00000
+muntin;0;1.00000
+munting;0;0.00000
+mural;3;0.00000
+mushroom;1;0.00000
+music box;2;0.00000
+music control table;1;0.00000
+music devices;1;0.00000
+music machine;1;0.00000
+music stand;31;0.00000
+musical instruments;1;0.00000
+musicians place;1;0.00000
+mussels;1;0.00000
+mustache;0;1.00000
+nail;0;1.00000
+nail brush;1;0.00000
+name plate;1;0.00000
+napkin holder;4;0.00000
+napkin rack;1;0.00000
+napkin ring;23;0.00000
+napkin, table napkin, serviette;464;0.00000
+napkins;0;0.00000
+neck;0;1.00000
+necklace;36;0.00000
+necklace display;1;0.00000
+necklaces;5;0.00000
+necktie;1;0.00000
+nest;2;0.00000
+net;91;0.03191
+netting;1;0.00000
+newspaper stand;7;0.00000
+newspaper, paper;75;0.00000
+newspapers;0;0.00000
+niche;34;0.00000
+night light;2;0.00000
+nose;0;1.00000
+notbook;0;0.00000
+note;1;0.00000
+notebook;244;0.00000
+notecards;1;0.00000
+notepad;33;0.00000
+notes;8;0.00000
+notice;2;0.00000
+notice board;6;0.00000
+nuclear reactor;2;0.00000
+numbers;3;0.00000
+numeral, number;67;0.00000
+nunchaku;1;0.00000
+nuts;26;0.00000
+oar;10;0.00000
+obelisk;8;0.00000
+observatory;9;0.00000
+obstacle;2;0.00000
+odometer;1;0.00000
+office;5;0.00000
+office partition;23;0.00000
+office window;1;0.00000
+offices;1;0.00000
+oil;3;0.00000
+oil jar;1;0.00000
+oil lamp;2;0.00000
+oil tube;1;0.00000
+oil tubes;2;0.00000
+oilcloth;1;0.00000
+onion;1;0.00000
+onions;5;0.00000
+opening;0;1.00000
+operation table;1;0.00000
+orange;4;0.00000
+oranges;0;0.00000
+orchestra;1;0.00000
+organ;19;0.00000
+organizer;1;0.00000
+oriental lantern;2;0.00000
+ornament;9;0.00000
+ornamental box;1;0.00000
+ornamental structure;2;0.00000
+ornaments;5;0.00000
+ottoman, pouf, pouffe, puff, hassock;433;0.00000
+outboard motor;0;1.00000
+outhouse;1;0.00000
+outhouse wc;1;0.00000
+outlet;0;1.00000
+outside arm;0;1.00000
+oven;272;0.50092
+overflot plate;0;1.00000
+overhang;5;0.00000
+overpass;1;0.00000
+oxygen tank;3;0.00000
+oyster bank;3;0.00000
+pack;112;0.00000
+pack bags;1;0.00000
+pack of cigarettes;12;0.00000
+pack of snuff;16;0.00000
+package;6;0.00000
+packages;7;0.00000
+packet;15;0.00000
+packets;5;0.00000
+pad;1;0.00000
+pad of paper;2;0.00000
+paddle;18;0.00000
+padlock;8;0.11111
+page;0;1.00000
+pagoda;6;0.00000
+paint box;1;0.00000
+paint brush;7;0.00000
+paint brushes;11;0.00000
+paint bucket;4;0.00000
+paint can;1;0.00000
+paint pot;2;0.00000
+paintbrush;20;0.00000
+painting, picture;8869;0.00000
+paintings;2;0.00000
+paints;2;0.00000
+palette;10;0.00000
+palisade;5;0.00000
+pallet;138;0.00000
+pallets;22;0.00000
+palm;0;0.00000
+palm trees;0;0.00000
+palm, palm tree;1200;0.00000
+pan;23;0.00000
+pane;0;1.00000
+pane, pane of glass, window glass;397;0.00000
+panel;16;0.84466
+panelling;1;0.00000
+panels;3;0.00000
+panes;2;0.00000
+pans;4;0.00000
+pantheon;1;0.00000
+pantry;20;0.00000
+pants;4;0.00000
+paper;782;0.00255
+paper box;2;0.00000
+paper clip;1;0.00000
+paper cups;17;0.00000
+paper dishes;4;0.00000
+paper dispenser;1;0.00000
+paper file;1;0.00000
+paper filer;17;0.00000
+paper napkin;1;0.00000
+paper napkins;2;0.00000
+paper rack;2;0.00000
+paper roll;16;0.00000
+paper rolls;2;0.00000
+paper towel;105;0.00000
+paper towels dispenser;1;0.00000
+paper weight;3;0.00000
+paperpile;1;0.00000
+paperweight;2;0.00000
+park;5;0.00000
+park gear;1;0.00000
+parking;17;0.00000
+parking entrance;3;0.00000
+parking lot;11;0.00000
+parking meter;213;0.00000
+parking place;4;0.00000
+parking space;0;1.00000
+parterre;23;0.00000
+partition wall;2;0.00000
+partition, divider;196;0.00000
+pastries;2;0.00000
+pastry;3;0.00000
+patches;0;0.00000
+path;747;0.00000
+patio;17;0.00000
+patio, terrace;24;0.00000
+patty, cake;393;0.00000
+pavilion;23;0.00000
+pavilions;1;0.00000
+paving;0;0.00000
+paving stone;12;0.00000
+peach;3;0.00000
+peak;1;0.00000
+peaked cap;2;0.00000
+peaks;1;0.00000
+pebbles;1;0.00000
+pectoral machine;1;0.00000
+pedal;0;1.00000
+pedal boat;0;0.00000
+pedestal;0;1.00000
+pedestal, plinth, footstall;71;0.00000
+pediment;0;1.00000
+pelota court;1;0.00000
+pelt;18;0.00000
+pelts;2;0.00000
+pen;194;0.00000
+pen box;2;0.00000
+pen holder;3;0.00000
+pen set;6;0.00000
+pencil;8;0.00000
+pencil case;3;0.00000
+pencil cup;1;0.00000
+pencil sharpener;1;0.00000
+pencils;3;0.00000
+pendant;15;0.00000
+pendant lamp;0;1.00000
+pendulum;0;1.00000
+penguin;7;0.00000
+pens;13;0.00000
+pepper;16;0.00000
+pepper grinder;1;0.00000
+pepper shaker;11;0.00000
+peppers;1;0.00000
+pergola;1;0.00000
+person;0;0.00000
+person walking;0;0.00000
+person, individual, someone, somebody, mortal, soul;24420;0.00000
+pestle;1;0.00000
+pet bowl;1;0.00000
+pet dish;9;0.00000
+petal;18;0.00000
+petrol pump;0;1.00000
+petrol pump hose;3;0.00000
+petrol pumps;1;0.00000
+petrol station;1;0.00000
+phone charger;1;0.00000
+phone fax;1;0.00000
+phone jack;1;0.00000
+photo;2;0.00000
+photo album;2;0.00000
+photo backdrops;3;0.00000
+photo machine;5;0.00000
+photocopier;2;0.00000
+piano pedals;0;1.00000
+piano, pianoforte, forte-piano;75;0.00000
+pick;1;0.00000
+picnic spot;1;0.00000
+pictures;34;0.00000
+pie;4;0.00000
+pie spinach;2;0.00000
+piece;2;0.00000
+pieces;1;0.00000
+pier;25;0.00000
+pier, wharf, wharfage, dock;147;0.00000
+pig;15;0.00000
+pig statue;0;0.00000
+pig tail;1;0.00000
+pigeon;1;0.00000
+pigeonhole;14;0.00000
+pigsty;1;0.00000
+pile of junk;1;0.00000
+pile of trash;2;0.00000
+pillar;3;0.25000
+pillars;1;0.00000
+pillow;2246;0.00000
+pillows;12;0.00000
+pilon;8;0.00000
+pilot cockpit;0;1.00000
+pinball;10;0.00000
+pine cone;0;0.00000
+pine decor;1;0.00000
+pine decoration;1;0.00000
+pineapple;1;0.00000
+pinecone;6;0.00000
+pinecones;0;0.00000
+ping pong paddle;3;0.00000
+pins;2;0.00000
+pipe;0;1.00000
+pipe drain;0;1.00000
+pipe, pipage, piping;285;0.00000
+pipe, tube;57;0.00000
+piper;1;0.00000
+pipette;1;0.00000
+piping;1;0.00000
+piston;0;1.00000
+pit;1;0.00000
+pitch;32;0.00000
+pitcher, ewer;259;0.00000
+pitchfork;1;0.00000
+placard;7;0.00000
+place card;18;0.00000
+place mat;252;0.00000
+place mats;1;0.00000
+place setting;1;0.00000
+placecard;1;0.00000
+placecard holder;1;0.00000
+plain;0;0.00000
+plane;0;1.00000
+planer;1;0.00000
+planetarium;1;0.00000
+planks;30;0.00000
+plant;0;1.00000
+plant box;5;0.00000
+plant pots;23;0.00000
+plant stand;1;0.00000
+plant, flora, plant life;10967;0.00000
+planter;49;0.00000
+plants;0;1.00000
+plants pot;2;0.00000
+plaque;39;0.00000
+plastic;18;0.00000
+plastic cup;4;0.00000
+plastic cups;2;0.00000
+plastic sheet;1;0.00000
+plate;1760;0.01895
+plate mat;11;0.00000
+plate rack;6;0.00000
+plateau;13;0.00000
+plates rack;1;0.00000
+platform;99;0.00000
+plats;2;0.00000
+platter;6;0.00000
+playground;43;0.00000
+playground equipment;4;0.00000
+playpen;0;0.00000
+plaything, toy;1065;0.00000
+pliers;1;0.00000
+plinth;1;0.00000
+plug;27;0.15625
+podium;27;0.00000
+poker;2;0.00000
+pole;2163;0.00962
+pole sign;3;0.00000
+poles;13;0.00000
+polythene cover;1;0.00000
+poncho;12;0.00000
+pond;26;0.00000
+pond water;5;0.00000
+pool;32;0.00000
+pool ball;319;0.00000
+pool balls;31;0.00000
+pool bar;1;0.00000
+pool bass;1;0.00000
+pool table, billiard table, snooker table;264;0.00000
+pool triangle;1;0.00000
+popcorn machine;1;0.00000
+porch;23;0.37838
+porch rail;2;0.00000
+porexpan board;1;0.00000
+port;4;0.00000
+portable fridge;4;0.00000
+portfolio;1;0.00000
+post;246;0.18812
+post box;2;0.00000
+post light;8;0.00000
+post-it;12;0.00000
+postal card;1;0.00000
+postbox;3;0.00000
+postbox, mailbox, letter box;129;0.00000
+postcard;15;0.00000
+postcard display;1;0.00000
+postcard stand;1;0.00000
+postcards;4;0.00000
+poster board;1;0.00000
+poster, posting, placard, notice, bill, card;706;0.00000
+posters;5;0.00000
+posters pole;1;0.00000
+postes;2;0.00000
+posts;1;0.00000
+pot;1212;0.01061
+pot hanger;1;0.00000
+pot holder;1;0.00000
+pot lid;1;0.00000
+pot of herbs;1;0.00000
+pot pen;2;0.00000
+pot rack;2;0.00000
+pot, flowerpot;2517;0.00000
+potatoes;2;0.00000
+pots;15;0.00000
+potted fern;1;0.00000
+potters wheel;7;0.00000
+pottery, clayware;136;0.00000
+powder;1;0.00000
+powder compact;3;0.00000
+power;3;0.00000
+power box;3;0.00000
+power cord;1;0.00000
+power line;1;0.00000
+power lines;2;0.00000
+power meter;3;0.00000
+power outlet;1;0.00000
+power point;10;0.00000
+power strip;1;0.00000
+precipice;0;0.00000
+precision balance;3;0.00000
+press;1;0.00000
+pressure cooker;3;0.00000
+pressure gauge;4;0.00000
+pressure washer;1;0.00000
+price list;2;0.00000
+price tag;230;0.00000
+printed matter;1;0.00000
+printer;104;0.00000
+private place;2;0.00000
+processing machine;1;0.00000
+production line;1;0.00000
+professional degree;2;0.00000
+projector;56;0.00000
+projector rack;2;0.00000
+propeller;1;0.92857
+propellers;0;0.00000
+pub front;1;0.00000
+puddle;23;0.00000
+pulley;7;0.00000
+pulpit;29;0.00000
+pumpkin;20;0.00000
+pumpkins;11;0.00000
+punching bag;28;0.00000
+puppet;1;0.00000
+purses;1;0.00000
+push button, push, button;21;0.00000
+push buttons;1;0.00000
+pyjamas;2;0.00000
+pylon, power pylon;33;0.00000
+pyramid;2;0.00000
+quay;15;0.00000
+quicksand;2;0.00000
+quilt;3;0.00000
+quonset hut;4;0.00000
+quonset huts;1;0.00000
+rabbit;1;0.00000
+rack;159;0.00000
+rack cue;1;0.00000
+rack tool;1;0.00000
+racket;22;0.00000
+rackets;1;0.00000
+racking chair;0;0.00000
+racks;1;0.00000
+racquet;4;0.00000
+radar;0;1.00000
+radar screen;1;0.00000
+radiator;229;0.00000
+radio;39;0.00000
+radiography;1;0.00000
+raft;3;0.00000
+rafting;4;0.00000
+rail;0;1.00000
+railing;0;1.00000
+railing, rail;1429;0.00000
+railings;0;1.00000
+railroad;4;0.00000
+railroad track;4;0.00000
+railroad tracks;1;0.00000
+railroad train;4;0.00000
+rails;5;0.00000
+railway;39;0.00000
+railway engine;4;0.00000
+railway tie;12;0.00000
+railway yard;1;0.00000
+railways;2;0.00000
+rain drain;1;0.00000
+rain gutter;2;0.00000
+rain pipe;0;1.00000
+rainbow;9;0.00000
+rainshield;0;1.00000
+rake;9;0.00000
+rakes;0;1.00000
+ramp;25;0.03846
+ranch;8;0.00000
+raw disposal basket;1;0.00000
+ray;1;0.00000
+razor;3;0.00000
+razor cut hair;1;0.00000
+reaper;1;0.00000
+rear dash;1;0.00000
+receiver;0;1.00000
+recessed light;1;0.00000
+reclining chair;4;0.00000
+record player;5;0.00000
+recorder;4;0.00000
+records;1;0.00000
+recycling bin;29;0.00000
+recycling materials;2;0.00000
+recycling plant;1;0.00000
+recycling trash;1;0.00000
+red board;1;0.00000
+red light;0;1.00000
+reed;1;0.00000
+reel;17;0.00000
+reels;12;0.00000
+refinery;1;0.00000
+refrigerator, icebox;460;0.00000
+refuge;2;0.00000
+remains;7;0.00000
+remote control, remote;150;0.00000
+rescue float;1;0.00000
+rest;2;0.00000
+restroom;2;0.00000
+revolving door;6;0.75000
+revolving doors;0;1.00000
+revolving pass;1;0.00000
+ribbon;3;0.40000
+ribbons;1;0.00000
+ride;28;0.00000
+ride structure;1;0.00000
+ride tiles;0;1.00000
+rider;6;0.00000
+ridge;0;0.00000
+ridge liles;0;1.00000
+ridge tiles;0;1.00000
+rifle;75;0.00000
+rifles;4;0.00000
+right arm;0;1.00000
+right foot;0;1.00000
+right hand;0;1.00000
+right leg;0;1.00000
+right shoulder;0;1.00000
+rim;4;0.99799
+ring;32;0.00000
+ring bell;1;0.00000
+ring binder;2;0.00000
+rings;1;0.00000
+riser;0;1.00000
+river;384;0.00000
+river bank;0;0.00000
+road;0;1.00000
+road, route;5396;0.00000
+roadroller;1;0.00000
+roads;9;0.00000
+roasting;1;0.00000
+rock;0;1.00000
+rock formations;1;0.00000
+rock wall;1;0.00000
+rock, stone;2873;0.00000
+rocker;1;0.83333
+rocket;2;0.00000
+rocking;0;1.00000
+rocking chair;0;0.00000
+rocking horse;3;0.00000
+rocks;0;1.00000
+rocky formation;20;0.00000
+rocky formations;15;0.00000
+rocky wall;1;0.00000
+rod;143;0.02055
+roll;32;0.00000
+roller;1;0.00000
+roller coaster;14;0.00000
+roller coaster cars;1;0.00000
+rolling mill;1;0.00000
+rolls;1;0.00000
+roof;38;0.96517
+roof rack;4;0.71429
+root;8;0.00000
+roots;2;0.00000
+rop;0;1.00000
+rope;69;0.01429
+rope bridge;9;0.00000
+ropes;7;0.00000
+rose;1;0.00000
+rose window;3;0.40000
+rotisserie;5;0.00000
+roulette;2;0.00000
+roulette table;1;0.00000
+roundabout;23;0.00000
+router;1;0.00000
+rowing boat;1;0.00000
+rowing machine;2;0.00000
+rubber glove;1;0.00000
+rubber ring;11;0.00000
+rubbish;5;0.00000
+rubbish, trash, scrap;47;0.00000
+rubble;12;0.00000
+rudder;12;0.07692
+rug, carpet, carpeting;1512;0.00000
+ruins;28;0.00000
+rule;4;0.00000
+rung;0;1.00000
+runnel water;1;0.00000
+runner;2;0.00000
+runner cloth;10;0.00000
+runway;114;0.00000
+runway strip;4;0.00000
+sack;18;0.00000
+sacks;35;0.00000
+sacks wall;4;0.00000
+saddle;4;0.55556
+safe;2;0.00000
+safe door;0;1.00000
+safes;1;0.00000
+safety belt;23;0.00000
+safety net;2;0.00000
+safety rail;0;1.00000
+safety side;0;1.00000
+safety suit;1;0.00000
+sail;7;0.22222
+sailboat;0;0.00000
+sailing boat;0;0.00000
+saline solution;1;0.00000
+salt;19;0.00000
+salt and pepper;5;0.00000
+salt and pepper shakers;3;0.00000
+salt marsh;5;0.00000
+salt pepper cellar;1;0.00000
+salt plain;1;0.00000
+salt shaker;6;0.00000
+saltcellar;23;0.00000
+sanck bar;1;0.00000
+sand;423;0.00236
+sand dune;24;0.00000
+sand dunes;4;0.00000
+sand hill;1;0.00000
+sand track;1;0.00000
+sand trap;24;0.00000
+sandal;68;0.00000
+sandbar;5;0.00000
+sandbox;11;0.00000
+sandpit;5;0.00000
+sandwich;5;0.00000
+santa claus;5;0.00000
+sash;0;1.00000
+sash lock;0;1.00000
+satellite turner;0;0.00000
+sauce;5;0.00000
+saucepan;112;0.00000
+saucepans;2;0.00000
+saucers;1;0.00000
+sauna;5;0.00000
+savanna;9;0.00000
+saw;2;0.00000
+sawhorse;1;0.00000
+scaffolding, staging;99;0.00000
+scale, weighing machine;52;0.00000
+scanner;4;0.00000
+scarecrows;2;0.00000
+scarf;29;0.00000
+scarfs;6;0.00000
+schoolyard;6;0.00000
+scissors;16;0.00000
+sconce;1912;0.00052
+scoop;2;0.00000
+score;12;0.00000
+scoreboard;36;0.00000
+scotch tape;8;0.00000
+scourer;2;0.00000
+scratching post;2;0.00000
+screen;0;1.00000
+screen door, screen;169;0.00000
+screen stand;1;0.00000
+screen, CRT screen;0;0.00000
+screen, silver screen, projection screen;130;0.00000
+screens;5;0.00000
+screw;0;1.00000
+screwdriver;1;0.00000
+screwdrivers;1;0.00000
+screws box;1;0.00000
+scrub;12;0.00000
+scrubland;4;0.00000
+sculpture;536;0.00741
+sculptures;2;0.00000
+sea;787;0.00000
+sea star;3;0.00000
+sea water ice;1;0.00000
+seagull;29;0.00000
+seal;9;0.00000
+sealing roll;1;0.00000
+sealing tape;1;0.00000
+seaplane;0;0.00000
+seat;1808;0.47011
+seat base;1;0.99884
+seat belt;8;0.00000
+seat belt clipper;1;0.00000
+seat cushion;1;0.99958
+seat water;0;1.00000
+seating;14;0.00000
+seats;0;1.00000
+secateurs;1;0.00000
+secretary table;1;0.00000
+security camera;20;0.00000
+security cameras;1;0.00000
+security checkpoint;5;0.00000
+security cordon;1;0.00000
+security door;7;0.00000
+security door frame;5;0.00000
+security light;1;0.00000
+seedbed;5;0.00000
+seesaw;1;0.00000
+segment;1;0.00000
+seltzer bottle;1;0.00000
+semi-flush mount lights;1;0.00000
+semidesert ground;14;0.00000
+sensor;0;0.00000
+sepulcher;1;0.00000
+server;3;0.00000
+servers;1;0.00000
+service elevator;3;0.00000
+service station;18;0.00000
+set of instruments;14;0.00000
+set of pigeonholes;2;0.00000
+set office;1;0.00000
+set square;2;0.00000
+sewer;6;0.00000
+sewer cover;1;0.00000
+sewer drain;1;0.00000
+sewing box;1;0.00000
+sewing machine;20;0.00000
+shack;1;0.00000
+shade;0;1.00000
+shaft;0;1.00000
+shaker;5;0.00000
+shampoo;5;0.00000
+shanties;25;0.00000
+shanty;25;0.00000
+shantytown;3;0.00000
+shape;1;0.00000
+shark;1;0.00000
+shaving brush;3;0.00000
+shavings;1;0.00000
+shawl;10;0.00000
+shed;12;0.00000
+sheep;17;0.00000
+sheep pen;6;0.00000
+sheeps;2;0.00000
+sheet;13;0.00000
+sheets;2;0.00000
+shelf;2403;0.29778
+shell;0;0.00000
+shell, case, casing;4;0.00000
+shellfish;1;0.00000
+shells;1;0.00000
+shelter;31;0.00000
+shelves;0;1.00000
+shield;2;0.00000
+ship;66;0.00000
+shipyard;12;0.00000
+shirt;229;0.00000
+shoal;1;0.00000
+shoe;810;0.00000
+shoe rack;1;0.00000
+shoelace;0;1.00000
+shoji screen;1;0.00000
+shooting pad;1;0.00000
+shop window;0;1.00000
+shop, store;35;0.00000
+shopping bag;1;0.00000
+shopping cart;17;0.00000
+shopping carts;3;0.00000
+shops;29;0.00000
+shore;14;0.00000
+shorts;5;0.00000
+shoulder;1;0.00000
+shovel;22;0.00000
+shower;154;0.02532
+shower curtain;12;0.00000
+shower door;6;0.00000
+shower faucet;2;0.00000
+shower room;5;0.00000
+shower shelf;1;0.00000
+shower stall, shower bath;71;0.00000
+shower tray;6;0.00000
+showerhead;1;0.00000
+showers;2;0.00000
+shrine;4;0.00000
+shrub;0;1.00000
+shrub, bush;1062;0.00000
+shrubbery;0;0.00000
+shutter;117;0.89572
+shutters;1;0.90000
+side;3;0.99461
+side jamb;0;1.00000
+side pocket;0;1.00000
+side rail;0;1.00000
+sidewalk;0;1.00000
+sidewalk, pavement;5466;0.00000
+sieve;1;0.00000
+sign;0;1.00000
+signboard, sign;6108;0.00000
+sill;7;0.92553
+silo;4;0.00000
+silos;3;0.00000
+silver bird statue;2;0.00000
+silver canister;1;0.00000
+silverware;4;0.00000
+single hung;0;1.00000
+sink;1480;0.00000
+sinkhole;3;0.00000
+sinkhole water;1;0.00000
+sinks;12;0.00000
+site hut;2;0.00000
+skate;6;0.00000
+skateboard;3;0.00000
+skates;2;0.00000
+skating boots;1;0.00000
+skating rink;4;0.00000
+skeleton;22;0.00000
+sketch;1;0.00000
+ski;8;0.00000
+ski lift;14;0.00000
+ski lift cabin;6;0.00000
+ski lift pole;1;0.00000
+ski pole;3;0.00000
+ski slope;6;0.00000
+ski stand;1;0.00000
+ski trail;3;0.00000
+skids;0;1.00000
+skimmer;11;0.00000
+skip;8;0.00000
+skirt;48;0.91444
+skirting board;5;0.00000
+skirts;8;0.00000
+skis;12;0.00000
+skittle;0;0.00000
+skittle alley;21;0.00000
+skittles;0;0.00000
+skull;91;0.00000
+skulls;2;0.00000
+sky;9487;0.00000
+skylight;0;1.00000
+skylight, fanlight;100;0.00000
+skyscraper;970;0.00000
+skyscrapers;7;0.00000
+skywalk;6;0.00000
+slat;0;1.00000
+slates;0;1.00000
+slats;0;1.00000
+sled;7;0.00000
+sledgehammer;1;0.00000
+sleeping bag;1;0.00000
+sleeping robe;4;0.00000
+sleigh;0;0.00000
+slice;2;0.00000
+slicer;3;0.00000
+slide;20;0.47368
+slides;1;0.00000
+sliding;1;0.00000
+sliding door;0;1.00000
+slipper;26;0.00000
+slippers;6;0.00000
+slope;30;0.00000
+slot machine, coin machine;167;0.00000
+slotted spoon;3;0.00000
+slow cooker;1;0.00000
+slum shanties;2;0.00000
+small chair;1;0.00000
+small table;8;0.00000
+smoke;32;0.00000
+smoke detector;8;0.00000
+smoke escape;3;0.00000
+snacks;2;0.00000
+sneakers;0;0.00000
+snow;327;0.00000
+snowboard;1;0.00000
+snowboard shape;2;0.00000
+snowboarder;1;0.00000
+snowshoe;2;0.00000
+snowy;1;0.00000
+snowy mountain pass;1;0.00000
+snuffs;1;0.00000
+soap;108;0.00000
+soap bar;1;0.00000
+soap dish;82;0.00000
+soap dispenser;161;0.00000
+soaps;2;0.00000
+soccer ball;1;0.00000
+sock;2;0.00000
+socket;0;1.00000
+sockets;0;1.00000
+socks;10;0.00000
+sofa bed;8;0.00000
+sofa, couch, lounge;1710;0.00000
+soil;5;0.00000
+solar energy;1;0.00000
+solar panel;1;0.00000
+solar panels;1;0.00000
+solt machine;1;0.00000
+sopping cart;2;0.00000
+souk;3;0.00000
+sound equipment;1;0.00000
+spade;13;0.00000
+spanner;3;0.00000
+spanners;2;0.00000
+spatula;4;0.00000
+spatulas;1;0.00000
+speaker;0;1.00000
+special shape;0;1.00000
+spectacle-case;1;0.00000
+spectacles, specs, eyeglasses, glasses;76;0.00000
+sphere;4;0.00000
+spice;1;0.00000
+spice jar;5;0.00000
+spice rack;20;0.00000
+spices;3;0.00000
+spices rack;1;0.00000
+spillway;1;0.00000
+spinach;2;0.00000
+spindle;1;0.99796
+sping;11;0.00000
+spiral staircase;2;0.00000
+spire;5;0.00000
+sponge;14;0.00000
+sponges;2;0.00000
+spoon;111;0.00000
+spoons;3;0.00000
+sport bag;3;0.00000
+sports bag;10;0.00000
+spotlight, spot;2647;0.00000
+spotlights;29;0.00000
+spout;0;1.00000
+spray;13;0.00000
+spray bottle;2;0.00000
+spray can;2;0.00000
+sprays;3;0.00000
+spread;1;0.00000
+sprinkler;81;0.00000
+square;5;0.00000
+squash;2;0.00000
+squeezer;2;0.00000
+squirrel;2;0.00000
+ssign;1;0.00000
+stabilizer;0;1.00000
+stables;8;0.00000
+stadium;1;0.00000
+stage;117;0.00000
+stained glass;3;0.00000
+stained-glass window;0;1.00000
+staircase;0;1.00000
+stairs, steps;1197;0.00000
+stairway, staircase;759;0.00000
+stake;4;0.00000
+stalactite;20;0.00000
+stalactites;12;0.00000
+stalagmite;15;0.00000
+stalagmites;1;0.00000
+stall, stand, sales booth;158;0.00000
+stalls;15;0.00000
+stands;32;0.00000
+stapler;21;0.00000
+star;17;0.00000
+starfish;1;0.00000
+starting gate;3;0.00000
+starting gate trolley;1;0.00000
+station;5;0.00000
+stationary bicycle;1;0.00000
+statue;191;0.12785
+statue piller;1;0.00000
+statues;1;0.00000
+stave;0;1.00000
+steam roller;2;0.00000
+steam room;5;0.00000
+steam shovel;17;0.00000
+steam vase;1;0.00000
+steamroller;4;0.00000
+steel;1;0.00000
+steel beam;3;0.00000
+steel box;1;0.00000
+steel chair;1;0.00000
+steel industry;1;0.00000
+steel wire;1;0.00000
+steeple;0;1.00000
+steering;1;0.00000
+steering wheel;0;1.00000
+steering wheel, wheel;27;0.00000
+stem;0;1.00000
+step;0;1.00000
+step machine;4;0.00000
+step, stair;350;0.00000
+steps;1;0.98462
+steps machine;1;0.00000
+stereo;10;0.00000
+stethoscope;2;0.00000
+stick;67;0.00000
+sticker;4;0.00000
+sticks;8;0.00000
+sticky tape dispenser;1;0.00000
+stile;0;1.00000
+stilt;1;0.00000
+stocking;2;0.00000
+stockings;3;0.00000
+stone;0;1.00000
+stone ball;8;0.00000
+stone path;1;0.00000
+stone slab;2;0.00000
+stool;994;0.00000
+stools;6;0.00000
+stopper;0;1.00000
+storage;1;0.00000
+storage box;1;0.00000
+storage jar;2;0.00000
+storage rack;3;0.00000
+store;2;0.00000
+storm drain;4;0.00000
+storm grate;1;0.00000
+storm sewer;1;0.00000
+stove;0;1.00000
+stove, kitchen stove, range, kitchen range, cooking stove;597;0.00000
+strainer;8;0.00000
+straw;31;0.00000
+straw bale;15;0.00000
+straw bales;3;0.00000
+strawberries;1;0.00000
+strawberry;5;0.00000
+straws;2;0.00000
+stream;1;0.00000
+street box;13;0.00000
+street grate;1;0.00000
+street lights;6;0.00000
+street market;5;0.00000
+street name;3;0.00000
+street number;8;0.00000
+street sign;31;0.00000
+street wires;1;0.00000
+streetcar, tram, tramcar, trolley, trolley car;81;0.00000
+streetlight, street lamp;4660;0.00000
+stretcher;38;0.91038
+string;1;0.00000
+stringer;7;0.61111
+strip light;1;0.00000
+stripe;6;0.00000
+stripes;2;0.00000
+strips;5;0.00000
+strongbox;2;0.00000
+strongroom;6;0.00000
+structure;25;0.00000
+stuffed animal;2;0.00000
+stuffed animal head;13;0.00000
+stuffed head;1;0.00000
+stump;11;0.00000
+stumps;1;0.00000
+sty;1;0.00000
+submarine;1;0.00000
+subway;5;0.00000
+sugar;5;0.00000
+sugar bowl;20;0.00000
+sugar packet;2;0.00000
+suit;1;0.00000
+suit hanger;4;0.00000
+sulfur mine;1;0.00000
+sun;39;0.00000
+sun deck;4;0.00000
+sun room;1;0.00000
+sunflower;1;0.00000
+sunflower field;0;0.00000
+sunglasses;3;0.00000
+supermarket;1;0.00000
+supplies;1;0.00000
+support;16;0.11111
+support beam;1;0.00000
+support pole;1;0.00000
+supporting iron metal;2;0.00000
+supporting metal;1;0.00000
+surfboard;2;0.00000
+suspenders;1;0.00000
+suspension rope bridge;1;0.00000
+suspensions;1;0.00000
+sutter;0;1.00000
+swamp;3;0.00000
+sweater;0;0.00000
+sweater, jumper;107;0.00000
+sweatshirt;19;0.00000
+sweatshirts;25;0.00000
+sweep;1;0.00000
+sweet peas;1;0.00000
+swimming costume;2;0.00000
+swimming pool ladder;15;0.00000
+swimming pool, swimming bath, natatorium;78;0.00000
+swimsuit;1;0.00000
+swing;5;0.37500
+swinging seat;1;0.00000
+swings;14;0.00000
+swiss chard;1;0.00000
+switch;0;1.00000
+switch box;3;0.00000
+switch, electric switch, electrical switch;711;0.00000
+switchboard;2;0.00000
+switches;6;0.70000
+swivel chair;1084;0.00000
+swmming pool;1;0.00000
+sword;6;0.00000
+synthesizer;23;0.00000
+system;98;0.00000
+table;7988;0.00000
+table base;1;0.00000
+table cloth;13;0.00000
+table football;48;0.00000
+table game;30;0.00000
+table mat;8;0.00000
+table runner;17;0.00000
+table runners;1;0.00000
+table tennis;34;0.00000
+tablecloth;13;0.00000
+tablecloths;2;0.00000
+tableland;6;0.00000
+tables;16;0.00000
+tag;1;0.00000
+tail;0;1.00000
+tailight;0;0.00000
+taillight;0;1.00000
+tallboy;5;0.00000
+tank lid;0;1.00000
+tank top;1;0.00000
+tank, storage tank;137;0.00000
+tanker;1;0.00000
+tanker aircraft;1;0.00000
+tanks;9;0.00000
+tap;0;1.00000
+tap wrench;1;0.00000
+tape;5;0.00000
+tape measure;1;0.00000
+taper;2;0.00000
+tapes;1;0.00000
+tapestry, tapis;71;0.00000
+target;25;0.00000
+tarmac;0;0.00000
+tarp;5;0.00000
+tarpaulin;4;0.00000
+tart;1;0.00000
+tassle;0;1.00000
+tea set;2;0.00000
+teacup;157;0.00000
+teapot;202;0.00000
+teeth;0;1.00000
+telegraph pole;4;0.00000
+telephone;0;1.00000
+telephone booth, phone booth, call box, telephone box, telephone kiosk;91;0.00000
+telephone directories;1;0.00000
+telephone pole;1;0.00000
+telephone, phone, telephone set;525;0.00000
+telescope;15;0.00000
+television camera;38;0.00000
+television receiver, television, television set, tv, tv set, idiot box, boob tube, telly, goggle box;693;0.00000
+television stand;36;0.00000
+temple;11;0.00000
+tennis court;24;0.00000
+tennis racket;1;0.00000
+tennis table;3;0.00000
+tent, collapsible shelter;97;0.00000
+tents;4;0.00000
+terminal;6;0.00000
+terrace;0;1.00000
+terrace cafe;5;0.00000
+terraces;12;0.25000
+test;29;0.00000
+test tube;21;0.00000
+test tubes;1;0.00000
+text, textual matter;438;0.00000
+textile loom;1;0.00000
+textile mill;1;0.00000
+textiles;1;0.00000
+thermometer;8;0.00000
+thermos;11;0.00000
+thermostat;11;0.00000
+thread;3;0.00000
+threads;2;0.00000
+threshold;2;0.00000
+throne;12;0.00000
+throw;1;0.00000
+ticket box;1;0.00000
+ticket counter;15;0.00000
+ticket machine;1;0.00000
+ticket office;8;0.00000
+ticket vending machine;2;0.00000
+ticket window;9;0.40000
+tie;5;0.00000
+ties;5;0.00000
+tiger;9;0.00000
+tile;34;0.00000
+tiles;4;0.00000
+till;5;0.00000
+tilt wand;0;1.00000
+tin box;1;0.00000
+tins;38;0.00000
+tinsel;1;0.00000
+tire;3;0.00000
+tire seat;1;0.00000
+tires;9;0.00000
+tissue;5;0.78261
+tissue dispenser;1;0.00000
+tissues;2;0.00000
+toaster;75;0.00000
+toaster oven;2;0.00000
+toe board;0;1.00000
+toilet bag;1;0.00000
+toilet brush;28;0.00000
+toilet kit;3;0.00000
+toilet paper holder;17;0.05556
+toilet paper roll;0;1.00000
+toilet paper rolls;1;0.00000
+toilet set;1;0.00000
+toilet tissue, toilet paper, bathroom tissue;188;0.00000
+toilet, can, commode, crapper, pot, potty, stool, throne;462;0.00000
+toilete kit;1;0.00000
+toll booth;12;0.00000
+toll gate;8;0.00000
+toll plaza;6;0.00000
+tomato;2;0.00000
+tomatoes;2;0.00000
+tomb;37;0.00000
+tombs;1;0.00000
+tombstones;10;0.00000
+tongs;22;0.00000
+tongue;1;0.50000
+tool;14;0.00000
+tool kit;1;0.00000
+toolbox;7;0.00000
+tools;15;0.00000
+tools box;4;0.00000
+tooth cleaner;1;0.00000
+toothbrush;27;0.00000
+toothpaste;5;0.00000
+toothpick;1;0.00000
+top;2;0.99867
+top support;0;1.00000
+tops;3;0.00000
+torch;1;0.00000
+tornado;1;0.00000
+torrent water;2;0.00000
+torso;0;1.00000
+towel;1134;0.00000
+towel dispenser;4;0.00000
+towel paper;6;0.00000
+towel rack, towel horse;111;0.00000
+towel radiator;11;0.00000
+towel rail;2;0.50000
+towel ring;29;0.00000
+tower;167;0.12105
+town;0;0.00000
+track;29;0.00000
+tracks;17;0.00000
+tractor;16;0.00000
+trade name, brand name, brand, marque;705;0.00000
+traffic cone;192;0.00000
+traffic cones;4;0.00000
+traffic light, traffic signal, stoplight;1120;0.00000
+traffic marker;1;0.00000
+trailer;48;0.00000
+trailers;1;0.00000
+train, railroad train;79;0.00000
+training potty;1;0.00000
+trampoline;2;0.00000
+tramway;3;0.00000
+transformer;11;0.00000
+trap door;1;0.00000
+trash bag;13;0.00000
+trash bags;2;0.00000
+trash trolley;1;0.00000
+travel bag;0;0.00000
+tray;767;0.00260
+tray rack;1;0.00000
+tread;0;1.00000
+treadmill;10;0.00000
+treadmills;1;0.00000
+tree;22236;0.00004
+trees;0;1.00000
+trellis;20;0.00000
+trench;20;0.00000
+trestle;13;0.00000
+trestle bridge;1;0.00000
+trestles;1;0.00000
+tricycle;6;0.00000
+tripod;17;0.00000
+troller;1;0.00000
+troller bin;1;0.00000
+trolley basket;2;0.00000
+trolley crane;1;0.00000
+trolley drawers;2;0.00000
+trolley table;4;0.00000
+trolley tools;1;0.00000
+trolley tray;3;0.00000
+trolleys;1;0.00000
+trolly;2;0.00000
+trophies;1;0.00000
+trophy, prize;44;0.00000
+trough;5;0.00000
+trouser, pant;128;0.00000
+trowel;2;0.00000
+truck crane;2;0.00000
+truck, motortruck;672;0.00000
+truckle bed;1;0.00000
+trucks;0;0.00000
+trumpet;1;0.00000
+trunk;0;1.00000
+trunk, tree trunk, bole;129;0.00000
+tube;0;1.00000
+tubes;2;0.00000
+tubing;2;0.00000
+tumble dryer;40;0.00000
+tumble dryers;1;0.00000
+tundra;1;0.00000
+tunnel;33;0.00000
+turbine engine;0;1.00000
+tureen;25;0.00000
+turnbuckle;1;0.00000
+turntables;1;0.00000
+turtle;3;0.00000
+twigs;1;0.00000
+twizzlers;1;0.00000
+typewriter;4;0.00000
+umbrella;543;0.00000
+umbrella rack;2;0.00000
+umbrella stand;6;0.00000
+umbrellas;8;0.00000
+underground;1;0.00000
+underground station;2;0.00000
+undergrowth;7;0.00000
+underpass;1;0.00000
+units;1;0.00000
+upper;0;1.00000
+upper sash;0;1.00000
+urbanization;3;0.00000
+urinal;11;0.00000
+urn;9;0.00000
+utensils;21;0.00000
+utensils canister;0;0.00000
+utensils rack;1;0.00000
+utility box;2;0.00000
+utility cover;1;0.00000
+utility covers;1;0.00000
+utility panel;3;0.00000
+utility panels;1;0.00000
+vacuum cleaner;5;0.00000
+valance;3;0.00000
+valley urban;2;0.00000
+valley, vale;33;0.00000
+valve;8;0.00000
+van;814;0.00000
+vane;0;1.00000
+vanity;10;0.00000
+vanity bag;3;0.00000
+vase;2121;0.00047
+vases;11;0.00000
+vault;50;0.00000
+vaulted niche;1;0.00000
+vegetables;30;0.00000
+veil;2;0.00000
+velodrome;1;0.00000
+vending machine;157;0.00000
+vent;0;1.00000
+vent, venthole, vent-hole, blowhole;168;0.00000
+ventilation shaft;1;0.00000
+ventilator;0;1.00000
+veranda awning;1;0.00000
+verandah;1;0.00000
+verge;0;0.00000
+vessel;5;0.00000
+vest;2;0.00000
+viaduct;12;0.00000
+video;41;0.00000
+video camera;4;0.00000
+video game;2;0.00000
+video-tape;1;0.00000
+videocassette recorder, VCR;0;0.00000
+videos;188;0.00000
+viewpoint;2;0.00000
+village;12;0.00000
+vine;7;0.00000
+vine shoot;1;0.00000
+vinegar jar;1;0.00000
+vinery;1;0.00000
+vineyard;18;0.00000
+vintage bottle filler;1;0.00000
+violin;38;0.00000
+violoncello;1;0.00000
+visit cards;1;0.00000
+visor;0;1.00000
+volcano;0;0.00000
+volleyball court;4;0.00000
+voting booth;21;0.00000
+wafers;1;0.00000
+wagon;3;0.40000
+wagons;2;0.00000
+walker;2;0.00000
+walkie talkie;1;0.00000
+walking stick;2;0.00000
+walkway;6;0.00000
+wall;33717;0.00136
+wall clock;1;0.00000
+wall mount;0;1.00000
+wall recessed light;0;0.00000
+wall socket, wall plug, electric outlet, electrical outlet, outlet, electric receptacle;1633;0.00000
+wallet;15;0.00000
+walrus;2;0.00000
+wardrobe, closet, press;429;0.00000
+warehouse;5;0.00000
+warship;6;0.00000
+washbasin chair;2;0.00000
+washer, automatic washer, washing machine;190;0.00000
+washing hair;1;0.00000
+washing machines;17;0.00000
+watch;8;0.00000
+watchtower;17;0.00000
+water;885;0.00785
+water bog;1;0.00000
+water chute;16;0.00000
+water cooler;8;0.00000
+water dispenser;1;0.50000
+water ditch;5;0.00000
+water faucet, water tap, tap, hydrant;23;0.00000
+water filter;1;0.00000
+water hole;1;0.00000
+water lily;2;0.00000
+water machine;1;0.00000
+water mill;6;0.00000
+water mist;1;0.00000
+water pump;2;0.00000
+water spurt;1;0.00000
+water surf;7;0.00000
+water tower;26;0.00000
+water valve;1;0.00000
+water vapor;0;0.00000
+water wheel;13;0.00000
+watercraft;2;0.00000
+waterfall;0;1.00000
+waterfall, falls;135;0.00000
+watering can;14;0.00000
+waterscape;2;0.00000
+waterway;6;0.00000
+wave;0;1.00000
+waves;0;1.00000
+way;0;0.00000
+weapon;1;0.00000
+weapons;2;0.00000
+weathervane;2;0.00000
+webcam;4;0.20000
+weeds;11;0.00000
+weighbridge;21;0.00000
+weight;6;0.00000
+weights;22;0.00000
+welcome card;1;0.00000
+well;9;0.00000
+wheat;10;0.00000
+wheat field;0;0.00000
+wheel;194;0.95545
+wheelbarrow;19;0.00000
+wheelchair;23;0.00000
+wheelhouse;2;0.00000
+wheels;4;0.00000
+whisk;3;0.00000
+whistle;1;0.00000
+white coat;2;0.00000
+white mark;1;0.00000
+wicker basket;2;0.00000
+wig;6;0.00000
+winch;1;0.50000
+wind chimes;1;0.00000
+wind turbine;6;0.00000
+windmill, aerogenerator, wind generator;57;0.00000
+window;0;1.00000
+window frame;2;0.00000
+window latch;0;1.00000
+window rose;0;1.00000
+window scarf;6;0.14286
+windowpane, window;9723;0.00000
+windows;0;1.00000
+windshield;0;1.00000
+windshield, windscreen;25;0.00000
+wine rack;7;0.00000
+wing;0;1.00000
+winglet;0;1.00000
+wipe;1;0.00000
+wiper;0;1.00000
+wipers;0;1.00000
+wire mesh;2;0.00000
+wire mower;1;0.00000
+wire, conducting wire;109;0.00000
+wireless;0;1.00000
+wireless phone;1;0.00000
+wires;17;0.00000
+witness stand;10;0.00000
+wok;8;0.00000
+wood;36;0.00000
+wood art;11;0.00000
+wood blocks;8;0.00000
+wood board;1;0.00000
+wood box;1;0.00000
+wood figure;1;0.00000
+woodcarving;6;0.00000
+wooden cutlery;1;0.00000
+wooden overhang;1;0.00000
+wooden structure;1;0.00000
+wooden utensils;1;0.00000
+wooden wedge;5;0.00000
+work coat;1;0.00000
+work hut;1;0.00000
+work surface;1204;0.01473
+workbench;39;0.00000
+workstation;1;0.00000
+worktable, work table;8;0.00000
+wreath;10;0.00000
+wrenches;1;0.00000
+writing desk;1;0.00000
+x-rays;1;0.00000
+x-rays bed;1;0.00000
+yellow light;0;1.00000
+yoke;1;0.00000
+ziggurat;1;0.00000
+zipper;0;1.00000
+ ;0;0.00000
+carapace, shell, cuticle, shield;49;0.00000
+jersey, t-shirt, tee shirt;128;0.00000
+anchor, ground tackle;7;0.00000
+rocking chair, rocker;51;0.00000
+dog, domestic dog, canis familiaris;133;0.00000
+chest of drawers;0;1.00000
+horse, equus caballus;123;0.00000
+altar, communion table, lord's table;73;0.00000
+screen, crt screen;441;0.00000
+andiron, firedog, dog, dog-iron;5;0.00000
+sailboat, sailing boat;24;0.00000
+pala;1;0.00000
+alarm, warning device, alarm system;24;0.00000
+amphitheater, amphitheatre, coliseum;4;0.00000
+tarmacadam, tarmac, macadam;7;0.00000
+aquarium, fish tank, marine museum;14;0.00000
+playing field, athletic field, playing area, field;6;0.00000
+cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, atm;12;0.00000
+armor, armour;1;0.00000
+water vapor, water vapour;5;0.00000
+alarm clock, alarm;24;0.00000
+caca;1;0.00000
+central processing unit, cpu, c p u , central processor, processor, mainframe;9;0.00000
+art, fine art;5;0.00000
+ninepin, skittle, skittle pin;44;0.00000
+hai;0;1.00000
+card game, cards;40;0.00000
+altarpiece, reredos;27;0.00000
+gas pump, gasoline pump, petrol pump, island dispenser;49;0.00000
+light switch;0;1.00000
+orifice, opening, porta;1;0.00000
+seaplane, hydroplane;1;0.00000
+flood, floodlight, flood lamp, photoflood;12;0.00000
+microwave;0;1.00000
+screem;0;1.00000
+sled, sledge, sleigh;1;0.00000
+toy;0;1.00000
+mug holder;1;0.00000
+aircraft carrier, carrier, flattop, attack aircraft carrier;36;0.00000
+videocassette recorder, vcr;12;0.00000
+painiting;1;0.00000
+swab, swob, mop;1;0.00000
+adding machine, totalizer, totaliser;2;0.00000
+compueter;1;0.00000
+alga, algae;6;0.00000
+doble door;1;0.00000
+radio receiver, receiving set, radio set, radio, tuner, wireless;1;0.00000
+autoclave, sterilizer, steriliser;1;0.00000
