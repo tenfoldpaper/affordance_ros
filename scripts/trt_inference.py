@@ -182,6 +182,8 @@ class TrtModel:
             w /= 640
             y /= 480
             h /= 480
+            if(x < 0 or y < 0 or w < 0 or h < 0):
+                rospy.loginfo(x, w, y, h)
             if(w < 15/640 and h < 15/640):
                 continue
             if(w < 10/640 or h < 10/480): # we don't want TOO narrow objects; they are useless.
@@ -190,18 +192,19 @@ class TrtModel:
             # append to tuple to be assigned later
             xywh_tuple.append([x,y,w,h])
             detection_count += 1
-        rospy.loginfo(f"Inference and BBox calc done in {time.time() - start} sec. Detected {detection_count} blobs")
         
         # This drawing process takes another 0.005 sec, but it will be discarded. 
         # Need to check how long packing everything into a ROS message will take though, but I think I can get a 3~4 FPS performance out of this.
         # Create the message to be sent
         msg = DetectionMsg()
         msg.rgb_image = rgb_data
+        depth_data.encoding = "mono16"
         msg.depth_image = depth_data
         msg.detection_count = detection_count
         msg.detection_array = []
         
         msg.segmentation_image = self.bridge.cv2_to_imgmsg(np.array(affseg_img), 'mono8')
+        msg.segmented = True
         cv2.imwrite('../bien_thesis/img.jpg', affseg_img)
         # Also need to attach segmentation data
         for i in range(0, len(xywh_tuple)):
@@ -211,7 +214,9 @@ class TrtModel:
             msg.detection_array.append(tempArr)
         if(self.publish):
             self.detection_publisher.publish(msg)
-        
+            rospy.loginfo(f"Inference and BBox calc done in {time.time() - start} sec. Detected {detection_count} blobs. Publishing.")
+        else:
+            rospy.loginfo(f"Inference and BBox calc done in {time.time() - start} sec. Detected {detection_count} blobs. Not publishing.")
 if __name__ == "__main__":
 
     rospy.init_node("affordance_node")
