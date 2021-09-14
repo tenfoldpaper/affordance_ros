@@ -209,7 +209,7 @@ class TrtModel:
         
         msg.segmentation_image = self.bridge.cv2_to_imgmsg(np.array(affseg_img), 'mono8')
         msg.segmented = True
-        cv2.imwrite('../bien_thesis/img.jpg', affseg_img_copy)
+        #cv2.imwrite('../bien_thesis/img.jpg', affseg_img_copy)
         # Also need to attach segmentation data
         for i in range(0, len(xywh_tuple)):
             tempArr = DetectionArray()
