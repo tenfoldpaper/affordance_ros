@@ -168,7 +168,7 @@ class TrtModel:
         
         
         affseg_img = affseg_img.astype(np.uint8) # Gotta set it to uint8 to stop findCountours from complaining; right now it's in float.
-        
+        # affseg_img_copy = affseg_img.copy()
         # Find the bounding box
         cnts = cv2.findContours(affseg_img, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE) # Contour extraction takes about 0.005 sec
          
@@ -177,7 +177,12 @@ class TrtModel:
         detection_count = 0
         xywh_tuple = []
         for c in cnts:
-            x,y,w,h = cv2.boundingRect(c) # needa normalize it 
+            x,y,w,h = cv2.boundingRect(c) # normalize. This is also xy origin, wh size, not xy center, wh size
+            # so on top of normalizing, we need to recenter it
+            #affseg_img_copy = cv2.rectangle(affseg_img_copy, (x, y), (x + w, y + h), (36,255,12), 2)
+            x += w/2
+            y += h/2
+            
             x /= 640
             w /= 640
             y /= 480
@@ -188,7 +193,6 @@ class TrtModel:
                 continue
             if(w < 10/640 or h < 10/480): # we don't want TOO narrow objects; they are useless.
                 continue
-            #affseg_img = cv2.rectangle(affseg_img, (x, y), (x + w, y + h), (36,255,12), 2)
             # append to tuple to be assigned later
             xywh_tuple.append([x,y,w,h])
             detection_count += 1
@@ -205,7 +209,7 @@ class TrtModel:
         
         msg.segmentation_image = self.bridge.cv2_to_imgmsg(np.array(affseg_img), 'mono8')
         msg.segmented = True
-        cv2.imwrite('../bien_thesis/img.jpg', affseg_img)
+        cv2.imwrite('../bien_thesis/img.jpg', affseg_img_copy)
         # Also need to attach segmentation data
         for i in range(0, len(xywh_tuple)):
             tempArr = DetectionArray()
