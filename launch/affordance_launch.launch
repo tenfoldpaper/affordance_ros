@@ -7,6 +7,7 @@
   <arg name="depth_topic" default="/camera/depth_registered/hw_registered/image_rect_raw"/>
   <arg name="depth_camera_topic" default="/camera/depth_registered/camera_info"/>
   <arg name="detection_topic" default="/yolov5/detection"/>
+  <arg name="min_threshold" default="50"/>
   
   <arg name="save_img" default="False"/>  
   <arg name="publish" default="True"/>
@@ -20,6 +21,7 @@
     <param name="depth_topic" value="$(arg depth_topic)" />
     <param name="depth_camera_topic" value="$(arg depth_camera_topic)" />
     <param name="detection_topic" value="$(arg detection_topic)" />
+    <param name="min_threshold" value="$(arg min_threshold)" />
     
     <param name="save_img" value="$(arg save_img)" />
     <param name="publish" value="$(arg publish)" />

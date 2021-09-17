@@ -38,6 +38,7 @@ class TrtModel:
         rgb_camera = '', 
         depth_camera = '',
         detection_topic = '',
+        min_threshold = 50,
         save_img = False,
         publish = False):
         
@@ -47,11 +48,11 @@ class TrtModel:
         affordances12 = open(affordance_path).read().split('\n')[0].split(';')[2:]
         
         # Define desired affordances to detect
-        self.AFFORDANCES = ['grasp', 'place_on', 'pull']
+        self.AFFORDANCES = ['grasp', 'place_on']
         self.AFF_INDICES = [affordances12.index(aff) for aff in self.AFFORDANCES]
         self.INTENSITIES = [5, 5, 5]
         self.batch_size = 1
-        self.min_threshold = 50 # need to make this part adjustable
+        self.min_threshold = min_threshold # need to make this part adjustable
         self.msg_queue = queue.Queue(maxsize=1) # we always want the freshest frame to process
 
         self.engine_path = engine_path
@@ -168,7 +169,11 @@ class TrtModel:
         
         
         affseg_img = affseg_img.astype(np.uint8) # Gotta set it to uint8 to stop findCountours from complaining; right now it's in float.
-        # affseg_img_copy = affseg_img.copy()
+
+        if(self.save_img):
+            affseg_img_copy = affseg_img.copy()
+            affseg_img_copy = cv2.cvtColor(affseg_img_copy, cv2.COLOR_GRAY2BGR)
+            
         # Find the bounding box
         cnts = cv2.findContours(affseg_img, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE) # Contour extraction takes about 0.005 sec
          
@@ -179,7 +184,7 @@ class TrtModel:
         for c in cnts:
             x,y,w,h = cv2.boundingRect(c) # normalize. This is also xy origin, wh size, not xy center, wh size
             # so on top of normalizing, we need to recenter it
-            #affseg_img_copy = cv2.rectangle(affseg_img_copy, (x, y), (x + w, y + h), (36,255,12), 2)
+            x_orig, y_orig, w_orig, h_orig = x, y, w, h
             x += w/2
             y += h/2
             
@@ -192,7 +197,9 @@ class TrtModel:
             if(w < 15/640 and h < 15/640):
                 continue
             if(w < 10/640 or h < 10/480): # we don't want TOO narrow objects; they are useless.
-                continue
+                continue 
+            if self.save_img:
+                affseg_img_copy = cv2.rectangle(affseg_img_copy, (x_orig, y_orig), (x_orig + w_orig, y_orig + h_orig), (255,0,0), 2)
             # append to tuple to be assigned later
             xywh_tuple.append([x,y,w,h])
             detection_count += 1
@@ -209,7 +216,10 @@ class TrtModel:
         
         msg.segmentation_image = self.bridge.cv2_to_imgmsg(np.array(affseg_img), 'mono8')
         msg.segmented = True
-        #cv2.imwrite('../bien_thesis/img.jpg', affseg_img_copy)
+        if(self.save_img):
+            cv2.imwrite('../bien_thesis/affseg_raw.jpg', img)
+            cv2.imwrite('../bien_thesis/affseg_mask.jpg', affseg_img)
+            cv2.imwrite('../bien_thesis/affseg_contour.jpg', affseg_img_copy)
         # Also need to attach segmentation data
         for i in range(0, len(xywh_tuple)):
             tempArr = DetectionArray()
@@ -231,6 +241,7 @@ if __name__ == "__main__":
     depth_camera = rospy.get_param("~depth_camera_topic")
     detection_topic = rospy.get_param("~detection_topic")
     custom_model_path = rospy.get_param("~affordance_model_path")
+    min_threshold = int(rospy.get_param("~min_threshold"))
     publish = rospy.get_param("~publish")
     save_img = rospy.get_param("~save_img")
     
@@ -246,6 +257,7 @@ if __name__ == "__main__":
                 rgb_camera = rgb_camera, 
                 depth_camera = depth_camera, 
                 detection_topic = detection_topic,
+                min_threshold = min_threshold,
                 save_img = save_img, 
                 publish = publish)
         except:
@@ -255,6 +267,7 @@ if __name__ == "__main__":
                 rgb_camera = rgb_camera, 
                 depth_camera = depth_camera,
                 detection_topic = detection_topic,
+                min_threshold = min_threshold,
                 save_img = save_img, 
                 publish = publish)
     sleep_time = rospy.Rate(10)
