@@ -48,7 +48,7 @@ class TrtModel:
         affordances12 = open(affordance_path).read().split('\n')[0].split(';')[2:]
         
         # Define desired affordances to detect
-        self.AFFORDANCES = ['grasp', 'place_on']
+        self.AFFORDANCES = ['grasp'] # no place_on because we don't need the table to be high res
         self.AFF_INDICES = [affordances12.index(aff) for aff in self.AFFORDANCES]
         self.INTENSITIES = [5, 5, 5]
         self.batch_size = 1
@@ -63,7 +63,8 @@ class TrtModel:
         self.max_batch_size = max_batch_size
         self.inputs, self.outputs, self.bindings, self.stream = self.allocate_buffers()
         self.context = self.engine.create_execution_context()
-        
+        self.running_total = 0.
+        self.running_counter = 0
         self.rgb_topic = rgb_topic
         self.depth_topic = depth_topic
         self.publish = publish
@@ -72,12 +73,12 @@ class TrtModel:
         # NODE specific setup
         self.img_subscriber = message_filters.Subscriber(self.rgb_topic, Image, queue_size=5, buff_size=2**24)
         self.depth_subscriber = message_filters.Subscriber(self.depth_topic, Image, queue_size=5, buff_size=2**24)
-        self.ts = message_filters.ApproximateTimeSynchronizer([self.img_subscriber, self.depth_subscriber], queue_size=1, slop=0.1)
+        self.ts = message_filters.ApproximateTimeSynchronizer([self.img_subscriber, self.depth_subscriber], queue_size=1, slop=0.05)
         self.ts.registerCallback(self.detector_callback)
         
         if(self.publish):
             rospy.loginfo("Publish mode. initializing publisher.")
-            self.detection_publisher = rospy.Publisher(detection_topic, DetectionMsg, queue_size=5)
+            self.detection_publisher = rospy.Publisher(detection_topic, DetectionMsg, queue_size=1)
         
         rospy.loginfo("Initialised TRT affordance network with the following parameters:\n" + \
             f"Model               : {engine_path}\n" +
@@ -140,7 +141,10 @@ class TrtModel:
         self.msg_queue.put((rgb_data, depth_data))
 
     def process_frame(self):
+        # initialise the message and save the time
+        msg = DetectionMsg()
         rgb_data, depth_data = self.msg_queue.get(block=True)
+        msg.image_time = rgb_data.header.stamp
         start = time.time()
         # first, convert the obtained Image data to a cv2-type format, which is just a numpy array.
         img = self.bridge.imgmsg_to_cv2(rgb_data, "bgr8")
@@ -207,7 +211,6 @@ class TrtModel:
         # This drawing process takes another 0.005 sec, but it will be discarded. 
         # Need to check how long packing everything into a ROS message will take though, but I think I can get a 3~4 FPS performance out of this.
         # Create the message to be sent
-        msg = DetectionMsg()
         msg.rgb_image = rgb_data
         depth_data.encoding = "mono16"
         msg.depth_image = depth_data
@@ -226,11 +229,14 @@ class TrtModel:
             xywh = xywh_tuple[i]
             tempArr.detection_info = np.asarray((0, *xywh)).astype(np.float) # 0 is supposed to be a class integer, but it's not needed. just need to fill up the space
             msg.detection_array.append(tempArr)
+        end = time.time()
+        self.running_total += end - start
+        self.running_counter += 1
         if(self.publish):
             self.detection_publisher.publish(msg)
-            rospy.loginfo(f"Inference and BBox calc done in {time.time() - start} sec. Detected {detection_count} blobs. Publishing.")
+            rospy.loginfo("Inference took {:.3f} sec, avg {:.3f} sec over {} samples. Detected {} blobs. Publishing.".format(end - start, self.running_total/self.running_counter, self.running_counter, detection_count))
         else:
-            rospy.loginfo(f"Inference and BBox calc done in {time.time() - start} sec. Detected {detection_count} blobs. Not publishing.")
+            rospy.loginfo("Inference took {:.3f} sec, avg {:.3f} sec over {} samples. Detected {} blobs. Not publishing.".format(end - start, self.running_total/self.running_counter, self.running_counter, detection_count))
 if __name__ == "__main__":
 
     rospy.init_node("affordance_node")
